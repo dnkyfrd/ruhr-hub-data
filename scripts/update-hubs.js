@@ -2,12 +2,12 @@ const fs = require('fs');
 const path = require('path');
 
 const CITIES = [
-  { slug: 'copenhagen', feed: 'donkey_copenhagen' },
+  { slug: 'ruhr', feed: 'donkey_ruhr' },
   // If the feed slug is different, update the feed value above.
   // e.g. { slug: 'ruhr', feed: 'donkey_ruhr-region' }
 ];
 
-const BASE = 'https://stables.donkey.bike/api/public/gbfs/2';
+const BASE = 'https://stables.donkey.bike/api/public/gbfs/3.0';
 
 async function fetchJSON(url) {
   const res = await fetch(url);
@@ -19,8 +19,8 @@ async function updateCity({ slug, feed }) {
   console.log(`Fetching data for ${slug}...`);
 
   const [infoData, statusData] = await Promise.all([
-    fetchJSON(`${BASE}/${feed}/en/station_information.json`),
-    fetchJSON(`${BASE}/${feed}/en/station_status.json`),
+    fetchJSON(`${BASE}/${feed}/station_information.json`),
+    fetchJSON(`${BASE}/${feed}/station_status.json`),
   ]);
 
   const statusById = {};
