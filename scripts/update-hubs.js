@@ -32,7 +32,7 @@ async function updateCity({ slug, feed }) {
     .filter((s) => s.lat && s.lon)
     .map((s) => ({
       id: s.station_id,
-      name: s.name,
+      name: s.name[0]?.text,
       latitude: s.lat,
       longitude: s.lon,
       bikes_available: statusById[s.station_id] ?? null,
