@@ -1,16 +1,37 @@
 [
   {
-    "id": "34221",
-    "name": "Zeche Zollverein A2",
-    "latitude": 51.4878681,
-    "longitude": 7.0438,
+    "id": "34084",
+    "name": "Virchowstraße/Lehrzentrum",
+    "latitude": 51.4327881,
+    "longitude": 6.988797,
     "bikes_available": null
   },
   {
-    "id": "33842",
-    "name": "Werden Bahnhof",
-    "latitude": 51.3865821,
-    "longitude": 6.99813,
+    "id": "34046",
+    "name": "Ruhrallee",
+    "latitude": 51.4308021,
+    "longitude": 7.054355,
+    "bikes_available": null
+  },
+  {
+    "id": "34272",
+    "name": "Altenessen Mitte StadtLastenRad",
+    "latitude": 51.4949721,
+    "longitude": 7.007189,
+    "bikes_available": null
+  },
+  {
+    "id": "34126",
+    "name": "UDE Leimkugelstrasse",
+    "latitude": 51.4726961,
+    "longitude": 7.004685,
+    "bikes_available": null
+  },
+  {
+    "id": "34129",
+    "name": "Niederfeldsee",
+    "latitude": 51.4658291,
+    "longitude": 6.976538,
     "bikes_available": null
   },
   {
@@ -21,6 +42,13 @@
     "bikes_available": null
   },
   {
+    "id": "34032",
+    "name": "I. Dellbrügge / Kettwiger Str.",
+    "latitude": 51.4545451,
+    "longitude": 7.013016,
+    "bikes_available": null
+  },
+  {
     "id": "34092",
     "name": "Ruhrbahn Essen",
     "latitude": 51.4371491,
@@ -28,10 +56,10 @@
     "bikes_available": null
   },
   {
-    "id": "34126",
-    "name": "UDE Leimkugelstrasse",
-    "latitude": 51.4726961,
-    "longitude": 7.004685,
+    "id": "34221",
+    "name": "Zeche Zollverein A2",
+    "latitude": 51.4878681,
+    "longitude": 7.0438,
     "bikes_available": null
   },
   {
@@ -63,10 +91,31 @@
     "bikes_available": null
   },
   {
-    "id": "34272",
-    "name": "Altenessen Mitte StadtLastenRad",
-    "latitude": 51.4949721,
-    "longitude": 7.007189,
+    "id": "33842",
+    "name": "Werden Bahnhof",
+    "latitude": 51.3865821,
+    "longitude": 6.99813,
+    "bikes_available": null
+  },
+  {
+    "id": "33921",
+    "name": "Universität/AStA",
+    "latitude": 51.4626741,
+    "longitude": 7.0033,
+    "bikes_available": null
+  },
+  {
+    "id": "33841",
+    "name": "Kettwig Bahnhof",
+    "latitude": 51.3636851,
+    "longitude": 6.953149,
+    "bikes_available": null
+  },
+  {
+    "id": "33974",
+    "name": "Universität",
+    "latitude": 51.4649731,
+    "longitude": 7.001703,
     "bikes_available": null
   },
   {
@@ -88,13 +137,6 @@
     "name": "Kopstadtplatz",
     "latitude": 51.4584061,
     "longitude": 7.011209,
-    "bikes_available": null
-  },
-  {
-    "id": "33841",
-    "name": "Kettwig Bahnhof",
-    "latitude": 51.3636851,
-    "longitude": 6.953149,
     "bikes_available": null
   },
   {
@@ -161,24 +203,10 @@
     "bikes_available": null
   },
   {
-    "id": "33921",
-    "name": "Universität/AStA",
-    "latitude": 51.4626741,
-    "longitude": 7.0033,
-    "bikes_available": null
-  },
-  {
     "id": "33948",
     "name": "Gemarkenplatz SLR",
     "latitude": 51.4417711,
     "longitude": 6.997787,
-    "bikes_available": null
-  },
-  {
-    "id": "33971",
-    "name": "Karlsplatz",
-    "latitude": 51.4998941,
-    "longitude": 7.007775,
     "bikes_available": null
   },
   {
@@ -207,20 +235,6 @@
     "name": "EVAG-Betriebshof Mitte",
     "latitude": 51.4594451,
     "longitude": 7.023257,
-    "bikes_available": null
-  },
-  {
-    "id": "34032",
-    "name": "I. Dellbrügge / Kettwiger Str.",
-    "latitude": 51.4545451,
-    "longitude": 7.013016,
-    "bikes_available": null
-  },
-  {
-    "id": "34046",
-    "name": "Ruhrallee",
-    "latitude": 51.4308021,
-    "longitude": 7.054355,
     "bikes_available": null
   },
   {
@@ -259,13 +273,6 @@
     "bikes_available": null
   },
   {
-    "id": "34084",
-    "name": "Virchowstraße/Lehrzentrum",
-    "latitude": 51.4327881,
-    "longitude": 6.988797,
-    "bikes_available": null
-  },
-  {
     "id": "34089",
     "name": "Corneliastraße",
     "latitude": 51.4398881,
@@ -298,13 +305,6 @@
     "name": "Michaelstraße",
     "latitude": 51.4491131,
     "longitude": 7.022452,
-    "bikes_available": null
-  },
-  {
-    "id": "34129",
-    "name": "Niederfeldsee",
-    "latitude": 51.4658291,
-    "longitude": 6.976538,
     "bikes_available": null
   },
   {
@@ -364,13 +364,6 @@
     "bikes_available": null
   },
   {
-    "id": "34188",
-    "name": "GNS Essen",
-    "latitude": 51.4543491,
-    "longitude": 7.000621,
-    "bikes_available": null
-  },
-  {
     "id": "34234",
     "name": "Witteringstraße 64 Be-MoVe Mobilpunkt",
     "latitude": 51.4412491,
@@ -396,13 +389,6 @@
     "name": "Weserstraße",
     "latitude": 51.4371341,
     "longitude": 7.032763,
-    "bikes_available": null
-  },
-  {
-    "id": "34270",
-    "name": "Katernberger Markt",
-    "latitude": 51.4974171,
-    "longitude": 7.048187,
     "bikes_available": null
   },
   {
@@ -476,13 +462,6 @@
     "bikes_available": null
   },
   {
-    "id": "33891",
-    "name": "Essen HBF Nordausgang",
-    "latitude": 51.4519981,
-    "longitude": 7.014223,
-    "bikes_available": null
-  },
-  {
     "id": "33913",
     "name": "Essen Borbeck Bahnhof",
     "latitude": 51.4728831,
@@ -490,24 +469,10 @@
     "bikes_available": null
   },
   {
-    "id": "33914",
-    "name": "Breslauer Str.",
-    "latitude": 51.4439041,
-    "longitude": 6.97781,
-    "bikes_available": null
-  },
-  {
     "id": "33916",
     "name": "Altenessen Mitte",
     "latitude": 51.4963541,
     "longitude": 7.008516,
-    "bikes_available": null
-  },
-  {
-    "id": "33915",
-    "name": "Altenessen Bahnhof",
-    "latitude": 51.4844901,
-    "longitude": 7.008773,
     "bikes_available": null
   },
   {
@@ -536,13 +501,6 @@
     "name": "Röntgenstr.",
     "latitude": 51.4616511,
     "longitude": 6.974108,
-    "bikes_available": null
-  },
-  {
-    "id": "33974",
-    "name": "Universität",
-    "latitude": 51.4649731,
-    "longitude": 7.001703,
     "bikes_available": null
   },
   {
@@ -595,6 +553,13 @@
     "bikes_available": null
   },
   {
+    "id": "33891",
+    "name": "Essen HBF Nordausgang",
+    "latitude": 51.4519981,
+    "longitude": 7.014223,
+    "bikes_available": null
+  },
+  {
     "id": "34277",
     "name": "Haarzopf/Erbach",
     "latitude": 51.4199581,
@@ -634,6 +599,41 @@
     "name": "Keplerstr.98 Be-MoVe Mobilpunkt",
     "latitude": 51.4428291,
     "longitude": 6.980566,
+    "bikes_available": null
+  },
+  {
+    "id": "33971",
+    "name": "Karlsplatz",
+    "latitude": 51.4998941,
+    "longitude": 7.007775,
+    "bikes_available": null
+  },
+  {
+    "id": "34270",
+    "name": "Katernberger Markt",
+    "latitude": 51.4974171,
+    "longitude": 7.048187,
+    "bikes_available": null
+  },
+  {
+    "id": "33915",
+    "name": "Altenessen Bahnhof",
+    "latitude": 51.4844901,
+    "longitude": 7.008773,
+    "bikes_available": null
+  },
+  {
+    "id": "33914",
+    "name": "Breslauer Str.",
+    "latitude": 51.4439041,
+    "longitude": 6.97781,
+    "bikes_available": null
+  },
+  {
+    "id": "34188",
+    "name": "GNS Essen",
+    "latitude": 51.4543491,
+    "longitude": 7.000621,
     "bikes_available": null
   },
   {
