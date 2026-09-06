@@ -1,30 +1,9 @@
 [
   {
-    "id": "36635",
-    "name": "Nörenbergstr. / Rutgerweg",
-    "latitude": 51.4943906,
-    "longitude": 7.3038018,
-    "bikes_available": null
-  },
-  {
-    "id": "33932",
-    "name": "Jugendhotel",
-    "latitude": 51.5175691,
-    "longitude": 7.46477,
-    "bikes_available": null
-  },
-  {
     "id": "36640",
     "name": "Harpener Hellweg / Maischützenstr.",
     "latitude": 51.50011,
     "longitude": 7.280922,
-    "bikes_available": null
-  },
-  {
-    "id": "34092",
-    "name": "Ruhrbahn Essen",
-    "latitude": 51.4371491,
-    "longitude": 7.001477,
     "bikes_available": null
   },
   {
@@ -35,66 +14,45 @@
     "bikes_available": null
   },
   {
-    "id": "34125",
-    "name": "Rheinpark",
-    "latitude": 51.4104401,
-    "longitude": 6.752053,
+    "id": "36961",
+    "name": "Schulte-im-Hofe Platz",
+    "latitude": 51.498165,
+    "longitude": 7.13331,
     "bikes_available": null
   },
   {
-    "id": "36905",
-    "name": "Hauptbahnhof",
-    "latitude": 51.616132,
-    "longitude": 7.202707,
+    "id": "34193",
+    "name": "Südliche Innenstadt",
+    "latitude": 51.6107811,
+    "longitude": 7.523826,
     "bikes_available": null
   },
   {
-    "id": "36944",
-    "name": "Wilhelmstraße Hangweg",
-    "latitude": 51.5562476,
-    "longitude": 7.3184417,
+    "id": "33983",
+    "name": "Langendreer West Bahnhof / Lünsender Str.",
+    "latitude": 51.4775121,
+    "longitude": 7.306241,
     "bikes_available": null
   },
   {
-    "id": "36948",
-    "name": "Lambertstraße",
-    "latitude": 51.5991873,
-    "longitude": 7.3113729,
+    "id": "34012",
+    "name": "Mühlenstr.",
+    "latitude": 51.4441781,
+    "longitude": 6.885273,
     "bikes_available": null
   },
   {
-    "id": "34188",
-    "name": "GNS Essen",
-    "latitude": 51.4543491,
-    "longitude": 7.000621,
+    "id": "33882",
+    "name": "Innenstadt Sterkrade",
+    "latitude": 51.5153921,
+    "longitude": 6.849378,
     "bikes_available": null
   },
   {
-    "id": "33858",
-    "name": "Freiheit",
-    "latitude": 51.5815331,
-    "longitude": 7.050809,
-    "bikes_available": null
-  },
-  {
-    "id": "36943",
-    "name": "Lange Straße / Postplatz",
-    "latitude": 51.5855317,
-    "longitude": 7.3177818,
-    "bikes_available": null
-  },
-  {
-    "id": "34154",
-    "name": "Parkstadt Mülheim",
-    "latitude": 51.4241351,
-    "longitude": 6.849529,
-    "bikes_available": null
-  },
-  {
-    "id": "34119",
-    "name": "Bahnstraße / RS1",
-    "latitude": 51.4297281,
-    "longitude": 6.877517,
+    "id": "33987",
+    "name": "Tausendfensterhaus",
+    "latitude": 51.4513591,
+    "longitude": 6.738052,
     "bikes_available": null
   },
   {
@@ -105,10 +63,10 @@
     "bikes_available": null
   },
   {
-    "id": "36664",
-    "name": "Knappschaftskrankenhaus Bochum",
-    "latitude": 51.4636924,
-    "longitude": 7.3254704,
+    "id": "36606",
+    "name": "Grevel",
+    "latitude": 51.5620714,
+    "longitude": 7.5469676,
     "bikes_available": null
   },
   {
@@ -119,45 +77,38 @@
     "bikes_available": null
   },
   {
-    "id": "33891",
-    "name": "Essen HBF Nordausgang",
-    "latitude": 51.4519981,
-    "longitude": 7.014223,
+    "id": "36549",
+    "name": "Rheinhausen Bezirksamt",
+    "latitude": 51.4045693,
+    "longitude": 6.7092516,
     "bikes_available": null
   },
   {
-    "id": "33777",
-    "name": "Bergbaumuseum",
-    "latitude": 51.4890978,
-    "longitude": 7.2157699,
+    "id": "33815",
+    "name": "Westfalenhalle",
+    "latitude": 51.4967011,
+    "longitude": 7.459367,
     "bikes_available": null
   },
   {
-    "id": "36728",
-    "name": "Rosenhügel",
-    "latitude": 51.543576,
-    "longitude": 7.018639,
+    "id": "34142",
+    "name": "GEBAG Quartier Neuenkamp",
+    "latitude": 51.4329801,
+    "longitude": 6.72741,
     "bikes_available": null
   },
   {
-    "id": "33854",
-    "name": "Schloss Horst",
-    "latitude": 51.5365561,
-    "longitude": 7.025644,
+    "id": "36593",
+    "name": "Gneisenaustr./Feldherrenstr.",
+    "latitude": 51.5210469,
+    "longitude": 7.4487249,
     "bikes_available": null
   },
   {
-    "id": "36910",
-    "name": "Bürgerhaus Süd",
-    "latitude": 51.5726676,
-    "longitude": 7.208521,
-    "bikes_available": null
-  },
-  {
-    "id": "36364",
-    "name": "Lindnerstr./ Hofstr.",
-    "latitude": 51.4945844,
-    "longitude": 6.8250568,
+    "id": "36569",
+    "name": "Aplerbeck Süd Bf",
+    "latitude": 51.4845136,
+    "longitude": 7.5508768,
     "bikes_available": null
   },
   {
@@ -175,13 +126,6 @@
     "bikes_available": null
   },
   {
-    "id": "34193",
-    "name": "Südliche Innenstadt",
-    "latitude": 51.6107811,
-    "longitude": 7.523826,
-    "bikes_available": null
-  },
-  {
     "id": "36629",
     "name": "Am Feldbrand",
     "latitude": 51.431378,
@@ -189,31 +133,10 @@
     "bikes_available": null
   },
   {
-    "id": "34072",
-    "name": "HBF Witten",
-    "latitude": 51.4356411,
-    "longitude": 7.330779,
-    "bikes_available": null
-  },
-  {
-    "id": "36941",
-    "name": "Holzstraße / Frebergstraße",
-    "latitude": 51.5539678,
-    "longitude": 7.3067839,
-    "bikes_available": null
-  },
-  {
-    "id": "37011",
-    "name": "Tag der Trinkhallen - Kiosk Mummel",
-    "latitude": 51.5714134,
-    "longitude": 7.0807022,
-    "bikes_available": null
-  },
-  {
-    "id": "36916",
-    "name": "Südbad",
-    "latitude": 51.5741617,
-    "longitude": 7.224733,
+    "id": "36454",
+    "name": "Bochumer Str. Dorsten",
+    "latitude": 51.6520089,
+    "longitude": 6.9804483,
     "bikes_available": null
   },
   {
@@ -224,38 +147,59 @@
     "bikes_available": null
   },
   {
-    "id": "33827",
-    "name": "Duisburg HBF Verknüpfungshalle West",
-    "latitude": 51.4315501,
-    "longitude": 6.775088,
+    "id": "36903",
+    "name": "Friedrich-Ebert-Straße",
+    "latitude": 51.6004369,
+    "longitude": 7.1839242,
     "bikes_available": null
   },
   {
-    "id": "34097",
-    "name": "Hombruch Marktplatz",
-    "latitude": 51.4760381,
-    "longitude": 7.439691,
+    "id": "33843",
+    "name": "Hügel / Regattahaus",
+    "latitude": 51.4032151,
+    "longitude": 7.007129,
     "bikes_available": null
   },
   {
-    "id": "36503",
-    "name": "Rheinstraße",
-    "latitude": 51.4108382,
-    "longitude": 6.5976822,
+    "id": "36420",
+    "name": "Rapen",
+    "latitude": 51.6460118,
+    "longitude": 7.2773293,
     "bikes_available": null
   },
   {
-    "id": "36679",
-    "name": "Haltestelle Am Theater",
-    "latitude": 51.6523658,
-    "longitude": 7.0886999,
+    "id": "33972",
+    "name": "M1 - Tenderweg",
+    "latitude": 51.4759371,
+    "longitude": 6.986811,
     "bikes_available": null
   },
   {
-    "id": "36443",
-    "name": "Bürgerhaus Ost Gladbeck",
-    "latitude": 51.5873562,
-    "longitude": 7.0045282,
+    "id": "36324",
+    "name": "Herringer Markt",
+    "latitude": 51.659953,
+    "longitude": 7.742565,
+    "bikes_available": null
+  },
+  {
+    "id": "36470",
+    "name": "Datteler Berg II",
+    "latitude": 51.6583122,
+    "longitude": 7.3337922,
+    "bikes_available": null
+  },
+  {
+    "id": "36404",
+    "name": "Herner Straße",
+    "latitude": 51.5848147,
+    "longitude": 7.146175,
+    "bikes_available": null
+  },
+  {
+    "id": "33780",
+    "name": "Bochum HBF",
+    "latitude": 51.4795007,
+    "longitude": 7.2222931,
     "bikes_available": null
   },
   {
@@ -266,17 +210,24 @@
     "bikes_available": null
   },
   {
-    "id": "36406",
-    "name": "Haltepunkt Herten (Westf.)",
-    "latitude": 51.597619,
-    "longitude": 7.1380261,
+    "id": "33961",
+    "name": "Lirich Wickstraße",
+    "latitude": 51.4813361,
+    "longitude": 6.834687,
     "bikes_available": null
   },
   {
-    "id": "34181",
-    "name": "Wanner Markt",
-    "latitude": 51.5387151,
-    "longitude": 7.155785,
+    "id": "36944",
+    "name": "Wilhelmstraße Hangweg",
+    "latitude": 51.5562476,
+    "longitude": 7.3184417,
+    "bikes_available": null
+  },
+  {
+    "id": "36455",
+    "name": "Mercaden",
+    "latitude": 51.6631133,
+    "longitude": 6.965181,
     "bikes_available": null
   },
   {
@@ -287,10 +238,10 @@
     "bikes_available": null
   },
   {
-    "id": "36418",
-    "name": "Hünenenplatz",
-    "latitude": 51.6492792,
-    "longitude": 7.2537429,
+    "id": "33885",
+    "name": "Bredeney",
+    "latitude": 51.4101951,
+    "longitude": 6.992948,
     "bikes_available": null
   },
   {
@@ -301,59 +252,38 @@
     "bikes_available": null
   },
   {
-    "id": "33906",
-    "name": "Gathestr.",
-    "latitude": 51.4564541,
-    "longitude": 6.887248,
+    "id": "34200",
+    "name": "Preußenbahnhof",
+    "latitude": 51.5883821,
+    "longitude": 7.540591,
     "bikes_available": null
   },
   {
-    "id": "33970",
-    "name": "Friedrichsplatz",
-    "latitude": 51.4558391,
-    "longitude": 6.735016,
+    "id": "36416",
+    "name": "Ewaldstraße",
+    "latitude": 51.5784662,
+    "longitude": 7.1444849,
     "bikes_available": null
   },
   {
-    "id": "33885",
-    "name": "Bredeney",
-    "latitude": 51.4101951,
-    "longitude": 6.992948,
+    "id": "36428",
+    "name": "Bahnhof Haltern am See",
+    "latitude": 51.7377454,
+    "longitude": 7.1832281,
     "bikes_available": null
   },
   {
-    "id": "36573",
-    "name": "Schürufer Str./B 236 (N)",
-    "latitude": 51.4862752,
-    "longitude": 7.5295198,
+    "id": "33778",
+    "name": "Dahlhausen Bahnhof",
+    "latitude": 51.4265211,
+    "longitude": 7.142546,
     "bikes_available": null
   },
   {
-    "id": "36285",
-    "name": "Uerdinger Straße",
-    "latitude": 51.4455617,
-    "longitude": 6.6358701,
-    "bikes_available": null
-  },
-  {
-    "id": "36468",
-    "name": "Familienbüro Süd",
-    "latitude": 51.6294094,
-    "longitude": 7.3241216,
-    "bikes_available": null
-  },
-  {
-    "id": "34032",
-    "name": "I. Dellbrügge / Kettwiger Str.",
-    "latitude": 51.4545451,
-    "longitude": 7.013016,
-    "bikes_available": null
-  },
-  {
-    "id": "36599",
-    "name": "Bf Marten",
-    "latitude": 51.5145295,
-    "longitude": 7.3741906,
+    "id": "33964",
+    "name": "Styrum Josefstr.",
+    "latitude": 51.4614741,
+    "longitude": 6.851864,
     "bikes_available": null
   },
   {
@@ -364,17 +294,24 @@
     "bikes_available": null
   },
   {
-    "id": "33831",
-    "name": "Dortmund HBF/Bahnhofsvorplatz",
-    "latitude": 51.5168345,
-    "longitude": 7.4594118,
+    "id": "36918",
+    "name": "Freiherr von Stein Gymnasium",
+    "latitude": 51.6160232,
+    "longitude": 7.181773,
     "bikes_available": null
   },
   {
-    "id": "34147",
-    "name": "Amazon Logistics DTM2",
-    "latitude": 51.5284571,
-    "longitude": 7.50231,
+    "id": "36954",
+    "name": "Recklinghauser Straße / Nordstraße",
+    "latitude": 51.5928555,
+    "longitude": 7.3163856,
+    "bikes_available": null
+  },
+  {
+    "id": "36941",
+    "name": "Holzstraße / Frebergstraße",
+    "latitude": 51.5539678,
+    "longitude": 7.3067839,
     "bikes_available": null
   },
   {
@@ -392,17 +329,10 @@
     "bikes_available": null
   },
   {
-    "id": "36617",
-    "name": "Weitmar-Mark Zentrum",
-    "latitude": 51.4407203,
-    "longitude": 7.2124684,
-    "bikes_available": null
-  },
-  {
-    "id": "33844",
-    "name": "Universitätsstr.",
-    "latitude": 51.4636411,
-    "longitude": 7.009654,
+    "id": "34062",
+    "name": "Altenbochum Kirche",
+    "latitude": 51.4723661,
+    "longitude": 7.2505,
     "bikes_available": null
   },
   {
@@ -413,17 +343,10 @@
     "bikes_available": null
   },
   {
-    "id": "33794",
-    "name": "RWE Tower",
-    "latitude": 51.5167261,
-    "longitude": 7.461765,
-    "bikes_available": null
-  },
-  {
-    "id": "33780",
-    "name": "Bochum HBF",
-    "latitude": 51.4795007,
-    "longitude": 7.2222931,
+    "id": "34284",
+    "name": "Düsseldorfer Str. 63 Be-MoVe Mobilpunkt",
+    "latitude": 51.4043601,
+    "longitude": 6.87585,
     "bikes_available": null
   },
   {
@@ -434,17 +357,24 @@
     "bikes_available": null
   },
   {
-    "id": "36448",
-    "name": "Rathaus Dorsten",
-    "latitude": 51.6700651,
-    "longitude": 6.9681712,
+    "id": "33899",
+    "name": "Alstaden Flockenfeld",
+    "latitude": 51.4629281,
+    "longitude": 6.834607,
     "bikes_available": null
   },
   {
-    "id": "33789",
-    "name": "Untere Hochstr.",
-    "latitude": 51.5190361,
-    "longitude": 6.925948,
+    "id": "34216",
+    "name": "Pestalozziplatz",
+    "latitude": 51.4378911,
+    "longitude": 7.357558,
+    "bikes_available": null
+  },
+  {
+    "id": "34072",
+    "name": "HBF Witten",
+    "latitude": 51.4356411,
+    "longitude": 7.330779,
     "bikes_available": null
   },
   {
@@ -455,24 +385,10 @@
     "bikes_available": null
   },
   {
-    "id": "36647",
-    "name": "Laerfeldstr. / Am Kreuzacker",
-    "latitude": 51.4705073,
-    "longitude": 7.276003,
-    "bikes_available": null
-  },
-  {
-    "id": "34126",
-    "name": "UDE Leimkugelstrasse",
-    "latitude": 51.4726961,
-    "longitude": 7.004685,
-    "bikes_available": null
-  },
-  {
-    "id": "36569",
-    "name": "Aplerbeck Süd Bf",
-    "latitude": 51.4845136,
-    "longitude": 7.5508768,
+    "id": "36730",
+    "name": "Marktplatz Zweckel",
+    "latitude": 51.595706,
+    "longitude": 6.987313,
     "bikes_available": null
   },
   {
@@ -483,38 +399,10 @@
     "bikes_available": null
   },
   {
-    "id": "34062",
-    "name": "Altenbochum Kirche",
-    "latitude": 51.4723661,
-    "longitude": 7.2505,
-    "bikes_available": null
-  },
-  {
-    "id": "36172",
-    "name": "Mobilstation: Broicher Mitte",
-    "latitude": 51.4247616,
-    "longitude": 6.8620253,
-    "bikes_available": null
-  },
-  {
-    "id": "34203",
-    "name": "Alstedde",
-    "latitude": 51.6282441,
-    "longitude": 7.491356,
-    "bikes_available": null
-  },
-  {
-    "id": "33835",
-    "name": "Hirschlandplatz",
-    "latitude": 51.4544231,
-    "longitude": 7.011292,
-    "bikes_available": null
-  },
-  {
-    "id": "36724",
-    "name": "Josefkirche",
-    "latitude": 51.573088,
-    "longitude": 6.951436,
+    "id": "36617",
+    "name": "Weitmar-Mark Zentrum",
+    "latitude": 51.4407203,
+    "longitude": 7.2124684,
     "bikes_available": null
   },
   {
@@ -525,10 +413,10 @@
     "bikes_available": null
   },
   {
-    "id": "33818",
-    "name": "Dellplatz",
-    "latitude": 51.4301901,
-    "longitude": 6.76201,
+    "id": "36904",
+    "name": "Gertrudisplatz",
+    "latitude": 51.5910311,
+    "longitude": 7.2120268,
     "bikes_available": null
   },
   {
@@ -536,13 +424,6 @@
     "name": "Musikschule",
     "latitude": 51.577789,
     "longitude": 6.971254,
-    "bikes_available": null
-  },
-  {
-    "id": "36402",
-    "name": "Zeche Ewald",
-    "latitude": 51.5718082,
-    "longitude": 7.1471283,
     "bikes_available": null
   },
   {
@@ -560,10 +441,10 @@
     "bikes_available": null
   },
   {
-    "id": "33822",
-    "name": "Explorado",
-    "latitude": 51.4405541,
-    "longitude": 6.770207,
+    "id": "36599",
+    "name": "Bf Marten",
+    "latitude": 51.5145295,
+    "longitude": 7.3741906,
     "bikes_available": null
   },
   {
@@ -574,6 +455,20 @@
     "bikes_available": null
   },
   {
+    "id": "33789",
+    "name": "Untere Hochstr.",
+    "latitude": 51.5190361,
+    "longitude": 6.925948,
+    "bikes_available": null
+  },
+  {
+    "id": "34203",
+    "name": "Alstedde",
+    "latitude": 51.6282441,
+    "longitude": 7.491356,
+    "bikes_available": null
+  },
+  {
     "id": "36662",
     "name": "Am Neggenborn / Kaltehardtstr.",
     "latitude": 51.4648515,
@@ -581,17 +476,17 @@
     "bikes_available": null
   },
   {
-    "id": "36370",
-    "name": "Evangelisches Krankenhaus",
-    "latitude": 51.4739352,
-    "longitude": 6.8671598,
+    "id": "34046",
+    "name": "Ruhrallee",
+    "latitude": 51.4313574,
+    "longitude": 7.0543885,
     "bikes_available": null
   },
   {
-    "id": "36373",
-    "name": "Uhlandplatz",
-    "latitude": 51.4798846,
-    "longitude": 6.8762042,
+    "id": "36503",
+    "name": "Rheinstraße",
+    "latitude": 51.4108382,
+    "longitude": 6.5976822,
     "bikes_available": null
   },
   {
@@ -602,24 +497,52 @@
     "bikes_available": null
   },
   {
-    "id": "36495",
-    "name": "Kamper Str.- Im Meerfeld",
-    "latitude": 51.4783109,
-    "longitude": 6.6049547,
+    "id": "36425",
+    "name": "Stadtmühlenbucht",
+    "latitude": 51.7539016,
+    "longitude": 7.2087404,
     "bikes_available": null
   },
   {
-    "id": "33898",
-    "name": "Wehrstr. / Mellinghofer Str.",
-    "latitude": 51.4705671,
-    "longitude": 6.886126,
+    "id": "33791",
+    "name": "Dortmund HBF Nordausgang",
+    "latitude": 51.5190581,
+    "longitude": 7.458767,
     "bikes_available": null
   },
   {
-    "id": "36470",
-    "name": "Datteler Berg II",
-    "latitude": 51.6583122,
-    "longitude": 7.3337922,
+    "id": "36283",
+    "name": "Kirschenallee",
+    "latitude": 51.4563049,
+    "longitude": 6.6540746,
+    "bikes_available": null
+  },
+  {
+    "id": "36703",
+    "name": "Fürstinnenstraße",
+    "latitude": 51.5133028,
+    "longitude": 7.0714346,
+    "bikes_available": null
+  },
+  {
+    "id": "36605",
+    "name": "Bf Nette/Oestrich",
+    "latitude": 51.5623943,
+    "longitude": 7.3782647,
+    "bikes_available": null
+  },
+  {
+    "id": "36560",
+    "name": "Moerser Str./Hochheide Markt",
+    "latitude": 51.4497474,
+    "longitude": 6.6856802,
+    "bikes_available": null
+  },
+  {
+    "id": "34007",
+    "name": "Ruhr Congress Bochum",
+    "latitude": 51.4898141,
+    "longitude": 7.232856,
     "bikes_available": null
   },
   {
@@ -630,17 +553,24 @@
     "bikes_available": null
   },
   {
-    "id": "36730",
-    "name": "Marktplatz Zweckel",
-    "latitude": 51.595706,
-    "longitude": 6.987313,
-    "bikes_available": null
-  },
-  {
     "id": "36533",
     "name": "Königstraße (Homberg)",
     "latitude": 51.4545915,
     "longitude": 6.7191556,
+    "bikes_available": null
+  },
+  {
+    "id": "36596",
+    "name": "Gut-Heil-Str./Magdeburger Str.",
+    "latitude": 51.5318415,
+    "longitude": 7.461434,
+    "bikes_available": null
+  },
+  {
+    "id": "36399",
+    "name": "Zeche Waltrop",
+    "latitude": 51.6174402,
+    "longitude": 7.4203418,
     "bikes_available": null
   },
   {
@@ -651,13 +581,6 @@
     "bikes_available": null
   },
   {
-    "id": "36961",
-    "name": "Schulte-im-Hofe Platz",
-    "latitude": 51.498165,
-    "longitude": 7.13331,
-    "bikes_available": null
-  },
-  {
     "id": "36685",
     "name": "Hassel Bahnhof",
     "latitude": 51.610905,
@@ -665,17 +588,31 @@
     "bikes_available": null
   },
   {
-    "id": "36644",
-    "name": "Castroper Straße / Einkaufszentrum",
-    "latitude": 51.4917514,
-    "longitude": 7.2441727,
+    "id": "36487",
+    "name": "Utfort - Rathausallee",
+    "latitude": 51.4752453,
+    "longitude": 6.6299355,
     "bikes_available": null
   },
   {
-    "id": "36645",
-    "name": "Castroper Str. / Josephinenstr.",
-    "latitude": 51.4932102,
-    "longitude": 7.2490377,
+    "id": "36675",
+    "name": "Haltestelle Bergwerk Auguste Victorias 3/7",
+    "latitude": 51.6868194,
+    "longitude": 7.115873,
+    "bikes_available": null
+  },
+  {
+    "id": "36402",
+    "name": "Zeche Ewald",
+    "latitude": 51.5718082,
+    "longitude": 7.1471283,
+    "bikes_available": null
+  },
+  {
+    "id": "34969",
+    "name": "Manifesta: St. Ludgerus",
+    "latitude": 51.465396,
+    "longitude": 7.3068649,
     "bikes_available": null
   },
   {
@@ -686,6 +623,20 @@
     "bikes_available": null
   },
   {
+    "id": "34181",
+    "name": "Wanner Markt",
+    "latitude": 51.5387151,
+    "longitude": 7.155785,
+    "bikes_available": null
+  },
+  {
+    "id": "36330",
+    "name": "Cafe del Sol/Peitzmeier-Platz",
+    "latitude": 51.665069,
+    "longitude": 7.831814,
+    "bikes_available": null
+  },
+  {
     "id": "36697",
     "name": "Erle Forsthaus",
     "latitude": 51.5509748,
@@ -693,10 +644,24 @@
     "bikes_available": null
   },
   {
-    "id": "33964",
-    "name": "Styrum Josefstr.",
-    "latitude": 51.4614741,
-    "longitude": 6.851864,
+    "id": "33973",
+    "name": "Röntgenstr.",
+    "latitude": 51.4616511,
+    "longitude": 6.974108,
+    "bikes_available": null
+  },
+  {
+    "id": "36451",
+    "name": "Krankenhaus",
+    "latitude": 51.6578122,
+    "longitude": 6.9555258,
+    "bikes_available": null
+  },
+  {
+    "id": "33940",
+    "name": "Oespel S-Bahnhof",
+    "latitude": 51.4881631,
+    "longitude": 7.3841,
     "bikes_available": null
   },
   {
@@ -714,59 +679,52 @@
     "bikes_available": null
   },
   {
-    "id": "36482",
-    "name": "Dorf Neukirchen",
-    "latitude": 51.4501164,
-    "longitude": 6.5792887,
+    "id": "34224",
+    "name": "Speicherstrasse",
+    "latitude": 51.5289031,
+    "longitude": 7.446783,
     "bikes_available": null
   },
   {
-    "id": "33962",
-    "name": "Buschhausen Mitte",
-    "latitude": 51.5029731,
-    "longitude": 6.83253,
+    "id": "33920",
+    "name": "Priorstr. / Münsterstr.",
+    "latitude": 51.5222561,
+    "longitude": 7.464609,
     "bikes_available": null
   },
   {
-    "id": "36283",
-    "name": "Kirschenallee",
-    "latitude": 51.4563049,
-    "longitude": 6.6540746,
+    "id": "36578",
+    "name": "Adi-Preißler-Allee",
+    "latitude": 51.5368085,
+    "longitude": 7.5531127,
     "bikes_available": null
   },
   {
-    "id": "36490",
-    "name": "Scherpenberg - Homberger Straße",
-    "latitude": 51.4496719,
-    "longitude": 6.6722835,
+    "id": "33969",
+    "name": "Uni-Nord Lotharstr.",
+    "latitude": 51.4330561,
+    "longitude": 6.799893,
     "bikes_available": null
   },
   {
-    "id": "33836",
-    "name": "Möllerbrücke",
-    "latitude": 51.5074571,
-    "longitude": 7.451364,
+    "id": "36172",
+    "name": "Mobilstation: Broicher Mitte",
+    "latitude": 51.4247616,
+    "longitude": 6.8620253,
     "bikes_available": null
   },
   {
-    "id": "36610",
-    "name": "Kirchderne",
-    "latitude": 51.5547369,
-    "longitude": 7.5123831,
+    "id": "34210",
+    "name": "Beckinghausen",
+    "latitude": 51.6119631,
+    "longitude": 7.56275,
     "bikes_available": null
   },
   {
-    "id": "36326",
-    "name": "Maxipark",
-    "latitude": 51.685854,
-    "longitude": 7.883841,
-    "bikes_available": null
-  },
-  {
-    "id": "36497",
-    "name": "Universumplatz",
-    "latitude": 51.4643918,
-    "longitude": 6.6628464,
+    "id": "36530",
+    "name": "Walsum Rathaus/Kometenplatz",
+    "latitude": 51.5267768,
+    "longitude": 6.7430046,
     "bikes_available": null
   },
   {
@@ -777,10 +735,10 @@
     "bikes_available": null
   },
   {
-    "id": "33958",
-    "name": "Brundelstr. / Oberstr.",
-    "latitude": 51.4759841,
-    "longitude": 7.332891,
+    "id": "36486",
+    "name": "Repelen Markt",
+    "latitude": 51.4898541,
+    "longitude": 6.601334,
     "bikes_available": null
   },
   {
@@ -805,10 +763,10 @@
     "bikes_available": null
   },
   {
-    "id": "36454",
-    "name": "Bochumer Str. Dorsten",
-    "latitude": 51.6520089,
-    "longitude": 6.9804483,
+    "id": "36511",
+    "name": "Pantrings Hof",
+    "latitude": 51.570417,
+    "longitude": 7.241306,
     "bikes_available": null
   },
   {
@@ -819,59 +777,38 @@
     "bikes_available": null
   },
   {
-    "id": "36911",
-    "name": "Kreishaus",
-    "latitude": 51.609183,
-    "longitude": 7.20416,
+    "id": "33864",
+    "name": "Schloss Strünkede",
+    "latitude": 51.5518831,
+    "longitude": 7.214043,
     "bikes_available": null
   },
   {
-    "id": "36549",
-    "name": "Rheinhausen Bezirksamt",
-    "latitude": 51.4045693,
-    "longitude": 6.7092516,
+    "id": "36906",
+    "name": "Stadtbücherrei",
+    "latitude": 51.61468,
+    "longitude": 7.1957369,
     "bikes_available": null
   },
   {
-    "id": "36417",
-    "name": "Berliner Platz Oer-Er",
-    "latitude": 51.6399176,
-    "longitude": 7.2613458,
+    "id": "36408",
+    "name": "Zeche Schlägel & Eisen",
+    "latitude": 51.6120166,
+    "longitude": 7.1184325,
     "bikes_available": null
   },
   {
-    "id": "34007",
-    "name": "Ruhr Congress Bochum",
-    "latitude": 51.4898141,
-    "longitude": 7.232856,
+    "id": "36924",
+    "name": "Paulusviertel",
+    "latitude": 51.6087991,
+    "longitude": 7.1930146,
     "bikes_available": null
   },
   {
-    "id": "34210",
-    "name": "Beckinghausen",
-    "latitude": 51.6119631,
-    "longitude": 7.56275,
-    "bikes_available": null
-  },
-  {
-    "id": "33705",
-    "name": "Essen Hauptbahnhof Süd",
-    "latitude": 51.4521625,
-    "longitude": 7.0144531,
-    "bikes_available": null
-  },
-  {
-    "id": "36450",
-    "name": "Busbahnhof Dorsten",
-    "latitude": 51.6585701,
-    "longitude": 6.9699877,
-    "bikes_available": null
-  },
-  {
-    "id": "36471",
-    "name": "St. Vincenz-Krankenhaus 1",
-    "latitude": 51.6528369,
-    "longitude": 7.3455392,
+    "id": "33887",
+    "name": "Essen Westbahnhof",
+    "latitude": 51.4537231,
+    "longitude": 6.980782,
     "bikes_available": null
   },
   {
@@ -882,6 +819,34 @@
     "bikes_available": null
   },
   {
+    "id": "36471",
+    "name": "St. Vincenz-Krankenhaus 1",
+    "latitude": 51.6528369,
+    "longitude": 7.3455392,
+    "bikes_available": null
+  },
+  {
+    "id": "34207",
+    "name": "Verkehrshof",
+    "latitude": 51.5949081,
+    "longitude": 7.441328,
+    "bikes_available": null
+  },
+  {
+    "id": "34038",
+    "name": "Freigrafendamm / Wittener Str.",
+    "latitude": 51.4734681,
+    "longitude": 7.241326,
+    "bikes_available": null
+  },
+  {
+    "id": "36672",
+    "name": "Altmarkt Alt-Marl",
+    "latitude": 51.6478031,
+    "longitude": 7.0827197,
+    "bikes_available": null
+  },
+  {
     "id": "36609",
     "name": "Bf Kirchderne",
     "latitude": 51.5471517,
@@ -889,10 +854,17 @@
     "bikes_available": null
   },
   {
-    "id": "36671",
-    "name": "Busbahnhof Marl",
-    "latitude": 51.6539117,
-    "longitude": 7.0993278,
+    "id": "33834",
+    "name": "Philharmonie",
+    "latitude": 51.4453281,
+    "longitude": 7.00917,
+    "bikes_available": null
+  },
+  {
+    "id": "36673",
+    "name": "Rundsporthalle Marl",
+    "latitude": 51.6597859,
+    "longitude": 7.0987421,
     "bikes_available": null
   },
   {
@@ -903,192 +875,24 @@
     "bikes_available": null
   },
   {
-    "id": "36515",
-    "name": "Holsterhausen/Bielefelder Straße",
-    "latitude": 51.53125,
-    "longitude": 7.187667,
+    "id": "34036",
+    "name": "Romanusplatz",
+    "latitude": 51.4682981,
+    "longitude": 7.215634,
     "bikes_available": null
   },
   {
-    "id": "33812",
-    "name": "Karl-Liebknecht-Str.",
-    "latitude": 51.4988451,
-    "longitude": 7.489751,
+    "id": "36595",
+    "name": "Uhlandstr./Haydenstr.",
+    "latitude": 51.5261892,
+    "longitude": 7.4570255,
     "bikes_available": null
   },
   {
-    "id": "33972",
-    "name": "M1 - Tenderweg",
-    "latitude": 51.4759371,
-    "longitude": 6.986811,
-    "bikes_available": null
-  },
-  {
-    "id": "36898",
-    "name": "Südbahnhof",
-    "latitude": 51.5624566,
-    "longitude": 7.1952167,
-    "bikes_available": null
-  },
-  {
-    "id": "34251",
-    "name": "Alstedde / Berggarten",
-    "latitude": 51.6271071,
-    "longitude": 7.485525,
-    "bikes_available": null
-  },
-  {
-    "id": "36272",
-    "name": "Moers Bahnhof",
-    "latitude": 51.4505388,
-    "longitude": 6.6408113,
-    "bikes_available": null
-  },
-  {
-    "id": "36942",
-    "name": "Hauptbahnhof",
-    "latitude": 51.5729857,
-    "longitude": 7.3048211,
-    "bikes_available": null
-  },
-  {
-    "id": "33899",
-    "name": "Alstaden Flockenfeld",
-    "latitude": 51.4629281,
-    "longitude": 6.834607,
-    "bikes_available": null
-  },
-  {
-    "id": "36416",
-    "name": "Ewaldstraße",
-    "latitude": 51.5784662,
-    "longitude": 7.1444849,
-    "bikes_available": null
-  },
-  {
-    "id": "36596",
-    "name": "Gut-Heil-Str./Magdeburger Str.",
-    "latitude": 51.5318415,
-    "longitude": 7.461434,
-    "bikes_available": null
-  },
-  {
-    "id": "36539",
-    "name": "BG-Klinikum",
-    "latitude": 51.3800351,
-    "longitude": 6.7818618,
-    "bikes_available": null
-  },
-  {
-    "id": "36722",
-    "name": "Mottbruch Park",
-    "latitude": 51.552306,
-    "longitude": 7.00346,
-    "bikes_available": null
-  },
-  {
-    "id": "36287",
-    "name": "Königlicher Hof",
-    "latitude": 51.4511773,
-    "longitude": 6.6297677,
-    "bikes_available": null
-  },
-  {
-    "id": "34216",
-    "name": "Pestalozziplatz",
-    "latitude": 51.4378911,
-    "longitude": 7.357558,
-    "bikes_available": null
-  },
-  {
-    "id": "36932",
-    "name": "Rathaus / Sportpark Castroper Holz",
-    "latitude": 51.5647731,
-    "longitude": 7.308641,
-    "bikes_available": null
-  },
-  {
-    "id": "34189",
-    "name": "Hauptstelle Sparkasse",
-    "latitude": 51.6139101,
-    "longitude": 7.519741,
-    "bikes_available": null
-  },
-  {
-    "id": "36914",
-    "name": "Rathausplatz",
-    "latitude": 51.6115748,
-    "longitude": 7.1991003,
-    "bikes_available": null
-  },
-  {
-    "id": "34969",
-    "name": "Manifesta: St. Ludgerus",
-    "latitude": 51.465396,
-    "longitude": 7.3068649,
-    "bikes_available": null
-  },
-  {
-    "id": "36541",
-    "name": "Sportpark Wedau",
-    "latitude": 51.4072517,
-    "longitude": 6.778704,
-    "bikes_available": null
-  },
-  {
-    "id": "36321",
-    "name": "Bahnhof Heessen",
-    "latitude": 51.708791,
-    "longitude": 7.832132,
-    "bikes_available": null
-  },
-  {
-    "id": "36903",
-    "name": "Friedrich-Ebert-Straße",
-    "latitude": 51.6004369,
-    "longitude": 7.1839242,
-    "bikes_available": null
-  },
-  {
-    "id": "33857",
-    "name": "Goldbergplatz",
-    "latitude": 51.5770761,
-    "longitude": 7.054955,
-    "bikes_available": null
-  },
-  {
-    "id": "33848",
-    "name": "Helbingstraße / RVR / Emschergen.",
-    "latitude": 51.4465111,
-    "longitude": 7.019849,
-    "bikes_available": null
-  },
-  {
-    "id": "36559",
-    "name": "MoerserStr/ Ottostr.",
-    "latitude": 51.4497649,
-    "longitude": 6.6901892,
-    "bikes_available": null
-  },
-  {
-    "id": "36958",
-    "name": "Melanchthonplatz",
-    "latitude": 51.520914,
-    "longitude": 7.0571,
-    "bikes_available": null
-  },
-  {
-    "id": "33940",
-    "name": "Oespel S-Bahnhof",
-    "latitude": 51.4881631,
-    "longitude": 7.3841,
-    "bikes_available": null
-  },
-  {
-    "id": "36367",
-    "name": "Fröbelplatz",
-    "latitude": 51.4608428,
-    "longitude": 6.8221938,
+    "id": "36667",
+    "name": "Bürgerbad an der Loemühle",
+    "latitude": 51.6570953,
+    "longitude": 7.139267,
     "bikes_available": null
   },
   {
@@ -1099,17 +903,213 @@
     "bikes_available": null
   },
   {
+    "id": "34155",
+    "name": "Jahrhunderthalle",
+    "latitude": 51.4804441,
+    "longitude": 7.198083,
+    "bikes_available": null
+  },
+  {
+    "id": "36916",
+    "name": "Südbad",
+    "latitude": 51.5741617,
+    "longitude": 7.224733,
+    "bikes_available": null
+  },
+  {
+    "id": "36899",
+    "name": "Westfälische Hochschule",
+    "latitude": 51.6118713,
+    "longitude": 7.2108348,
+    "bikes_available": null
+  },
+  {
+    "id": "34251",
+    "name": "Alstedde / Berggarten",
+    "latitude": 51.6271071,
+    "longitude": 7.485525,
+    "bikes_available": null
+  },
+  {
+    "id": "36910",
+    "name": "Bürgerhaus Süd",
+    "latitude": 51.5726676,
+    "longitude": 7.208521,
+    "bikes_available": null
+  },
+  {
+    "id": "36911",
+    "name": "Kreishaus",
+    "latitude": 51.609183,
+    "longitude": 7.20416,
+    "bikes_available": null
+  },
+  {
+    "id": "33831",
+    "name": "Dortmund HBF/Bahnhofsvorplatz",
+    "latitude": 51.5168345,
+    "longitude": 7.4594118,
+    "bikes_available": null
+  },
+  {
+    "id": "36539",
+    "name": "BG-Klinikum",
+    "latitude": 51.3800351,
+    "longitude": 6.7818618,
+    "bikes_available": null
+  },
+  {
+    "id": "33916",
+    "name": "Altenessen Mitte",
+    "latitude": 51.4963541,
+    "longitude": 7.008516,
+    "bikes_available": null
+  },
+  {
+    "id": "36722",
+    "name": "Mottbruch Park",
+    "latitude": 51.552306,
+    "longitude": 7.00346,
+    "bikes_available": null
+  },
+  {
+    "id": "34017",
+    "name": "Jugendherberge / MSV Stadion",
+    "latitude": 51.4106051,
+    "longitude": 6.777719,
+    "bikes_available": null
+  },
+  {
+    "id": "36448",
+    "name": "Rathaus Dorsten",
+    "latitude": 51.6700651,
+    "longitude": 6.9681712,
+    "bikes_available": null
+  },
+  {
+    "id": "34281",
+    "name": "Graitengraben/Rahmstr. Be-MoVe Mobilpunkt",
+    "latitude": 51.4898281,
+    "longitude": 7.020196,
+    "bikes_available": null
+  },
+  {
+    "id": "36326",
+    "name": "Maxipark",
+    "latitude": 51.685854,
+    "longitude": 7.883841,
+    "bikes_available": null
+  },
+  {
+    "id": "34189",
+    "name": "Hauptstelle Sparkasse",
+    "latitude": 51.6139101,
+    "longitude": 7.519741,
+    "bikes_available": null
+  },
+  {
+    "id": "33848",
+    "name": "Helbingstraße / RVR / Emschergen.",
+    "latitude": 51.4465111,
+    "longitude": 7.019849,
+    "bikes_available": null
+  },
+  {
+    "id": "34184",
+    "name": "Kahrstr. 46",
+    "latitude": 51.4417311,
+    "longitude": 7.000936,
+    "bikes_available": null
+  },
+  {
+    "id": "34128",
+    "name": "Michaelstraße",
+    "latitude": 51.4491131,
+    "longitude": 7.022452,
+    "bikes_available": null
+  },
+  {
+    "id": "36635",
+    "name": "Nörenbergstr. / Rutgerweg",
+    "latitude": 51.4943906,
+    "longitude": 7.3038018,
+    "bikes_available": null
+  },
+  {
+    "id": "36321",
+    "name": "Bahnhof Heessen",
+    "latitude": 51.708791,
+    "longitude": 7.832132,
+    "bikes_available": null
+  },
+  {
+    "id": "36370",
+    "name": "Evangelisches Krankenhaus",
+    "latitude": 51.4739352,
+    "longitude": 6.8671598,
+    "bikes_available": null
+  },
+  {
+    "id": "36468",
+    "name": "Familienbüro Süd",
+    "latitude": 51.6294094,
+    "longitude": 7.3241216,
+    "bikes_available": null
+  },
+  {
+    "id": "33857",
+    "name": "Goldbergplatz",
+    "latitude": 51.5770761,
+    "longitude": 7.054955,
+    "bikes_available": null
+  },
+  {
+    "id": "33822",
+    "name": "Explorado",
+    "latitude": 51.4405541,
+    "longitude": 6.770207,
+    "bikes_available": null
+  },
+  {
+    "id": "36346",
+    "name": "Flugplatz/Münsterstr.",
+    "latitude": 51.688229,
+    "longitude": 7.810882,
+    "bikes_available": null
+  },
+  {
+    "id": "36559",
+    "name": "MoerserStr/ Ottostr.",
+    "latitude": 51.4497649,
+    "longitude": 6.6901892,
+    "bikes_available": null
+  },
+  {
+    "id": "36443",
+    "name": "Bürgerhaus Ost Gladbeck",
+    "latitude": 51.5873562,
+    "longitude": 7.0045282,
+    "bikes_available": null
+  },
+  {
+    "id": "36366",
+    "name": "Bebelstraße",
+    "latitude": 51.4696494,
+    "longitude": 6.8374943,
+    "bikes_available": null
+  },
+  {
+    "id": "36497",
+    "name": "Universumplatz",
+    "latitude": 51.4643918,
+    "longitude": 6.6628464,
+    "bikes_available": null
+  },
+  {
     "id": "36927",
     "name": "Grüner Weg",
     "latitude": 51.5412678,
     "longitude": 7.3083452,
-    "bikes_available": null
-  },
-  {
-    "id": "36597",
-    "name": "Oestermärsch/Lütgeholz",
-    "latitude": 51.5219994,
-    "longitude": 7.4776333,
     "bikes_available": null
   },
   {
@@ -1124,6 +1124,13 @@
     "name": "Rathaus Gladbeck",
     "latitude": 51.572401,
     "longitude": 6.988474,
+    "bikes_available": null
+  },
+  {
+    "id": "33970",
+    "name": "Friedrichsplatz",
+    "latitude": 51.4558391,
+    "longitude": 6.735016,
     "bikes_available": null
   },
   {
@@ -1148,17 +1155,10 @@
     "bikes_available": null
   },
   {
-    "id": "34207",
-    "name": "Verkehrshof",
-    "latitude": 51.5949081,
-    "longitude": 7.441328,
-    "bikes_available": null
-  },
-  {
-    "id": "36552",
-    "name": "Rheinhausen Bf",
-    "latitude": 51.3931598,
-    "longitude": 6.7063288,
+    "id": "36406",
+    "name": "Haltepunkt Herten (Westf.)",
+    "latitude": 51.597619,
+    "longitude": 7.1380261,
     "bikes_available": null
   },
   {
@@ -1176,38 +1176,10 @@
     "bikes_available": null
   },
   {
-    "id": "36907",
-    "name": "Technisches Rathaus",
-    "latitude": 51.6097227,
-    "longitude": 7.1786378,
-    "bikes_available": null
-  },
-  {
-    "id": "36924",
-    "name": "Paulusviertel",
-    "latitude": 51.6087991,
-    "longitude": 7.1930146,
-    "bikes_available": null
-  },
-  {
-    "id": "36923",
-    "name": "König-Ludwig",
-    "latitude": 51.5865586,
-    "longitude": 7.2309629,
-    "bikes_available": null
-  },
-  {
     "id": "36514",
     "name": "Bickern",
     "latitude": 51.527361,
     "longitude": 7.142528,
-    "bikes_available": null
-  },
-  {
-    "id": "33918",
-    "name": "Brackel Kirche",
-    "latitude": 51.5233511,
-    "longitude": 7.546867,
     "bikes_available": null
   },
   {
@@ -1222,13 +1194,6 @@
     "name": "Schulstraße",
     "latitude": 51.6092113,
     "longitude": 7.2610226,
-    "bikes_available": null
-  },
-  {
-    "id": "33902",
-    "name": "Heißen Kirche",
-    "latitude": 51.4334511,
-    "longitude": 6.925077,
     "bikes_available": null
   },
   {
@@ -1281,6 +1246,13 @@
     "bikes_available": null
   },
   {
+    "id": "33958",
+    "name": "Brundelstr. / Oberstr.",
+    "latitude": 51.4759841,
+    "longitude": 7.332891,
+    "bikes_available": null
+  },
+  {
     "id": "36956",
     "name": "Edeka Gronemann",
     "latitude": 51.5474251,
@@ -1292,6 +1264,13 @@
     "name": "Emscherland",
     "latitude": 51.5971985,
     "longitude": 7.3029138,
+    "bikes_available": null
+  },
+  {
+    "id": "35131",
+    "name": "Alte Landstr.",
+    "latitude": 51.5287036,
+    "longitude": 7.0102101,
     "bikes_available": null
   },
   {
@@ -1309,10 +1288,10 @@
     "bikes_available": null
   },
   {
-    "id": "36957",
-    "name": "Sportparadies",
-    "latitude": 51.552726,
-    "longitude": 7.074722,
+    "id": "36610",
+    "name": "Kirchderne",
+    "latitude": 51.5547369,
+    "longitude": 7.5123831,
     "bikes_available": null
   },
   {
@@ -1323,10 +1302,24 @@
     "bikes_available": null
   },
   {
-    "id": "36284",
-    "name": "Asberg - Essenberger Straße",
-    "latitude": 51.4449554,
-    "longitude": 6.6603139,
+    "id": "33859",
+    "name": "Duisburg HBF Osteingang",
+    "latitude": 51.4297381,
+    "longitude": 6.777771,
+    "bikes_available": null
+  },
+  {
+    "id": "36544",
+    "name": "Lilienthalstr./Javastr.",
+    "latitude": 51.4359813,
+    "longitude": 6.7256415,
+    "bikes_available": null
+  },
+  {
+    "id": "34014",
+    "name": "RRZ/ Festival-Garden",
+    "latitude": 51.4372331,
+    "longitude": 6.956513,
     "bikes_available": null
   },
   {
@@ -1337,10 +1330,10 @@
     "bikes_available": null
   },
   {
-    "id": "36466",
-    "name": "Busbahnhof / Neumarkt",
-    "latitude": 51.6521432,
-    "longitude": 7.3388038,
+    "id": "36929",
+    "name": "Stadtgarten",
+    "latitude": 51.544946,
+    "longitude": 7.3136425,
     "bikes_available": null
   },
   {
@@ -1351,24 +1344,24 @@
     "bikes_available": null
   },
   {
-    "id": "36672",
-    "name": "Altmarkt Alt-Marl",
-    "latitude": 51.6478031,
-    "longitude": 7.0827197,
+    "id": "36543",
+    "name": "Bungertstr./DVV",
+    "latitude": 51.4290707,
+    "longitude": 6.7544961,
     "bikes_available": null
   },
   {
-    "id": "36451",
-    "name": "Krankenhaus",
-    "latitude": 51.6578122,
-    "longitude": 6.9555258,
+    "id": "36577",
+    "name": "Asseln/Aplerbecker Str.",
+    "latitude": 51.5278804,
+    "longitude": 7.5837649,
     "bikes_available": null
   },
   {
-    "id": "33834",
-    "name": "Philharmonie",
-    "latitude": 51.4453281,
-    "longitude": 7.00917,
+    "id": "36499",
+    "name": "Asberg - Bergheimer Str.",
+    "latitude": 51.4355202,
+    "longitude": 6.6644418,
     "bikes_available": null
   },
   {
@@ -1379,17 +1372,17 @@
     "bikes_available": null
   },
   {
+    "id": "36943",
+    "name": "Lange Straße / Postplatz",
+    "latitude": 51.5855317,
+    "longitude": 7.3177818,
+    "bikes_available": null
+  },
+  {
     "id": "36580",
     "name": "Schulte Rödding",
     "latitude": 51.5498799,
     "longitude": 7.4911964,
-    "bikes_available": null
-  },
-  {
-    "id": "36906",
-    "name": "Stadtbücherrei",
-    "latitude": 51.61468,
-    "longitude": 7.1957369,
     "bikes_available": null
   },
   {
@@ -1400,13 +1393,6 @@
     "bikes_available": null
   },
   {
-    "id": "34200",
-    "name": "Preußenbahnhof",
-    "latitude": 51.5883821,
-    "longitude": 7.540591,
-    "bikes_available": null
-  },
-  {
     "id": "36281",
     "name": "Bürostandort VfL",
     "latitude": 51.4887863,
@@ -1414,10 +1400,10 @@
     "bikes_available": null
   },
   {
-    "id": "36405",
-    "name": "Herten Mitte",
-    "latitude": 51.5948245,
-    "longitude": 7.1394145,
+    "id": "36948",
+    "name": "Lambertstraße",
+    "latitude": 51.5991873,
+    "longitude": 7.3113729,
     "bikes_available": null
   },
   {
@@ -1428,24 +1414,17 @@
     "bikes_available": null
   },
   {
-    "id": "36488",
-    "name": "Meerbeck - Volkspark",
-    "latitude": 51.4646538,
-    "longitude": 6.6464775,
+    "id": "36287",
+    "name": "Königlicher Hof",
+    "latitude": 51.4511773,
+    "longitude": 6.6297677,
     "bikes_available": null
   },
   {
-    "id": "36913",
-    "name": "Maybacher Heide",
-    "latitude": 51.596203,
-    "longitude": 7.2152541,
-    "bikes_available": null
-  },
-  {
-    "id": "34107",
-    "name": "Schützenstrasse",
-    "latitude": 51.5241351,
-    "longitude": 7.452732,
+    "id": "36664",
+    "name": "Knappschaftskrankenhaus Bochum",
+    "latitude": 51.4636924,
+    "longitude": 7.3254704,
     "bikes_available": null
   },
   {
@@ -1456,17 +1435,24 @@
     "bikes_available": null
   },
   {
-    "id": "36926",
-    "name": "Elisabeth Krankenhaus",
-    "latitude": 51.568528,
-    "longitude": 7.2082491,
+    "id": "33878",
+    "name": "Wohnheim Schemkesweg",
+    "latitude": 51.4276481,
+    "longitude": 6.785131,
     "bikes_available": null
   },
   {
-    "id": "34039",
-    "name": "Bochumer Fenster / Massenbergstr.",
-    "latitude": 51.4804574,
-    "longitude": 7.2211739,
+    "id": "33849",
+    "name": "Am Kaiserbrunnen",
+    "latitude": 51.5129931,
+    "longitude": 7.483154,
+    "bikes_available": null
+  },
+  {
+    "id": "34028",
+    "name": "AKAFÖ Stiepeler Str.",
+    "latitude": 51.4520611,
+    "longitude": 7.243767,
     "bikes_available": null
   },
   {
@@ -1491,94 +1477,52 @@
     "bikes_available": null
   },
   {
-    "id": "33907",
-    "name": "Speldorf-Betriebshof",
-    "latitude": 51.4290591,
-    "longitude": 6.840143,
+    "id": "36510",
+    "name": "Stadtgarten Herne",
+    "latitude": 51.541194,
+    "longitude": 7.235722,
     "bikes_available": null
   },
   {
-    "id": "34281",
-    "name": "Graitengraben/Rahmstr. Be-MoVe Mobilpunkt",
-    "latitude": 51.4898281,
-    "longitude": 7.020196,
+    "id": "34206",
+    "name": "Bürgerzentrum",
+    "latitude": 51.5847931,
+    "longitude": 7.506624,
     "bikes_available": null
   },
   {
-    "id": "36408",
-    "name": "Zeche Schlägel & Eisen",
-    "latitude": 51.6120166,
-    "longitude": 7.1184325,
+    "id": "36958",
+    "name": "Melanchthonplatz",
+    "latitude": 51.520914,
+    "longitude": 7.0571,
     "bikes_available": null
   },
   {
-    "id": "36506",
-    "name": "Eurotec - Ring",
-    "latitude": 51.4708566,
-    "longitude": 6.6380082,
+    "id": "36905",
+    "name": "Hauptbahnhof",
+    "latitude": 51.616132,
+    "longitude": 7.202707,
     "bikes_available": null
   },
   {
-    "id": "34091",
-    "name": "Gußmannplatz",
-    "latitude": 51.4267621,
-    "longitude": 7.004449,
+    "id": "33985",
+    "name": "Arenapark",
+    "latitude": 51.5571761,
+    "longitude": 7.066902,
     "bikes_available": null
   },
   {
-    "id": "34284",
-    "name": "Düsseldorfer Str. 63 Be-MoVe Mobilpunkt",
-    "latitude": 51.4043601,
-    "longitude": 6.87585,
+    "id": "36373",
+    "name": "Uhlandplatz",
+    "latitude": 51.4798846,
+    "longitude": 6.8762042,
     "bikes_available": null
   },
   {
-    "id": "34036",
-    "name": "Romanusplatz",
-    "latitude": 51.4682981,
-    "longitude": 7.215634,
-    "bikes_available": null
-  },
-  {
-    "id": "36526",
-    "name": "Haltest.Landschaftspark Nord",
-    "latitude": 51.4796355,
-    "longitude": 6.7929385,
-    "bikes_available": null
-  },
-  {
-    "id": "36608",
-    "name": "Scharnhorst Zentrum",
-    "latitude": 51.5525408,
-    "longitude": 7.5426305,
-    "bikes_available": null
-  },
-  {
-    "id": "34060",
-    "name": "Mobilstation Kronprinzenstrasse",
-    "latitude": 51.4453551,
-    "longitude": 7.017753,
-    "bikes_available": null
-  },
-  {
-    "id": "33987",
-    "name": "Tausendfensterhaus",
-    "latitude": 51.4513591,
-    "longitude": 6.738052,
-    "bikes_available": null
-  },
-  {
-    "id": "33843",
-    "name": "Hügel / Regattahaus",
-    "latitude": 51.4032151,
-    "longitude": 7.007129,
-    "bikes_available": null
-  },
-  {
-    "id": "33939",
-    "name": "Lütgendortmund / Bus-Bahnhof",
-    "latitude": 51.4991061,
-    "longitude": 7.334661,
+    "id": "34270",
+    "name": "Katernberger Markt",
+    "latitude": 51.4974171,
+    "longitude": 7.048187,
     "bikes_available": null
   },
   {
@@ -1589,10 +1533,10 @@
     "bikes_available": null
   },
   {
-    "id": "36346",
-    "name": "Flugplatz/Münsterstr.",
-    "latitude": 51.688229,
-    "longitude": 7.810882,
+    "id": "36365",
+    "name": "Bero-Zentrum",
+    "latitude": 51.4761891,
+    "longitude": 6.8420281,
     "bikes_available": null
   },
   {
@@ -1603,31 +1547,24 @@
     "bikes_available": null
   },
   {
-    "id": "34023",
-    "name": "RUB ID",
-    "latitude": 51.4467161,
-    "longitude": 7.266634,
+    "id": "36724",
+    "name": "Josefkirche",
+    "latitude": 51.573088,
+    "longitude": 6.951436,
     "bikes_available": null
   },
   {
-    "id": "33842",
-    "name": "Werden Bahnhof",
-    "latitude": 51.3865821,
-    "longitude": 6.99813,
+    "id": "36526",
+    "name": "Haltest.Landschaftspark Nord",
+    "latitude": 51.4796355,
+    "longitude": 6.7929385,
     "bikes_available": null
   },
   {
-    "id": "33838",
-    "name": "Saarlandstr. / Hohe Str.",
-    "latitude": 51.5052131,
-    "longitude": 7.459899,
-    "bikes_available": null
-  },
-  {
-    "id": "36584",
-    "name": "Lindenhorst",
-    "latitude": 51.5538068,
-    "longitude": 7.4470467,
+    "id": "33939",
+    "name": "Lütgendortmund / Bus-Bahnhof",
+    "latitude": 51.4991061,
+    "longitude": 7.334661,
     "bikes_available": null
   },
   {
@@ -1659,31 +1596,38 @@
     "bikes_available": null
   },
   {
-    "id": "36668",
-    "name": "Marktplatz Hüls",
-    "latitude": 51.6637829,
-    "longitude": 7.1327044,
+    "id": "34002",
+    "name": "Ruhr-Universität U35",
+    "latitude": 51.4460201,
+    "longitude": 7.259884,
     "bikes_available": null
   },
   {
-    "id": "36543",
-    "name": "Bungertstr./DVV",
-    "latitude": 51.4290707,
-    "longitude": 6.7544961,
+    "id": "36923",
+    "name": "König-Ludwig",
+    "latitude": 51.5865586,
+    "longitude": 7.2309629,
     "bikes_available": null
   },
   {
-    "id": "34104",
-    "name": "Rüschebrinkstrasse",
-    "latitude": 51.5209871,
-    "longitude": 7.520378,
+    "id": "36573",
+    "name": "Schürufer Str./B 236 (N)",
+    "latitude": 51.4862752,
+    "longitude": 7.5295198,
     "bikes_available": null
   },
   {
-    "id": "33810",
-    "name": "Stadthaus",
-    "latitude": 51.5082451,
-    "longitude": 7.468783,
+    "id": "33830",
+    "name": "Hüttenwerk / Eingang Landschaftspark",
+    "latitude": 51.4804941,
+    "longitude": 6.783693,
+    "bikes_available": null
+  },
+  {
+    "id": "34119",
+    "name": "Bahnstraße / RS1",
+    "latitude": 51.4297281,
+    "longitude": 6.877517,
     "bikes_available": null
   },
   {
@@ -1694,13 +1638,6 @@
     "bikes_available": null
   },
   {
-    "id": "34046",
-    "name": "Ruhrallee",
-    "latitude": 51.4313574,
-    "longitude": 7.0543885,
-    "bikes_available": null
-  },
-  {
     "id": "33955",
     "name": "Bismarckplatz",
     "latitude": 51.4809021,
@@ -1708,10 +1645,31 @@
     "bikes_available": null
   },
   {
-    "id": "36365",
-    "name": "Bero-Zentrum",
-    "latitude": 51.4761891,
-    "longitude": 6.8420281,
+    "id": "36913",
+    "name": "Maybacher Heide",
+    "latitude": 51.596203,
+    "longitude": 7.2152541,
+    "bikes_available": null
+  },
+  {
+    "id": "33950",
+    "name": "Freiheitstraße / Wattenscheid Rathaus",
+    "latitude": 51.4823251,
+    "longitude": 7.134751,
+    "bikes_available": null
+  },
+  {
+    "id": "33869",
+    "name": "Stadtmitte / Leineweberstr.",
+    "latitude": 51.4268721,
+    "longitude": 6.880124,
+    "bikes_available": null
+  },
+  {
+    "id": "33980",
+    "name": "Girardethaus",
+    "latitude": 51.4300431,
+    "longitude": 7.00321,
     "bikes_available": null
   },
   {
@@ -1722,24 +1680,17 @@
     "bikes_available": null
   },
   {
+    "id": "36506",
+    "name": "Eurotec - Ring",
+    "latitude": 51.4708566,
+    "longitude": 6.6380082,
+    "bikes_available": null
+  },
+  {
     "id": "34057",
     "name": "AKAFÖ Europahaus",
     "latitude": 51.4479731,
     "longitude": 7.253079,
-    "bikes_available": null
-  },
-  {
-    "id": "34142",
-    "name": "GEBAG Quartier Neuenkamp",
-    "latitude": 51.4329801,
-    "longitude": 6.72741,
-    "bikes_available": null
-  },
-  {
-    "id": "34128",
-    "name": "Michaelstraße",
-    "latitude": 51.4491131,
-    "longitude": 7.022452,
     "bikes_available": null
   },
   {
@@ -1750,6 +1701,20 @@
     "bikes_available": null
   },
   {
+    "id": "36645",
+    "name": "Castroper Str. / Josephinenstr.",
+    "latitude": 51.4932102,
+    "longitude": 7.2490377,
+    "bikes_available": null
+  },
+  {
+    "id": "34023",
+    "name": "RUB ID",
+    "latitude": 51.4467161,
+    "longitude": 7.266634,
+    "bikes_available": null
+  },
+  {
     "id": "36586",
     "name": "Clarenberg",
     "latitude": 51.4821643,
@@ -1757,10 +1722,17 @@
     "bikes_available": null
   },
   {
-    "id": "34056",
-    "name": "AKAFÖ Erlenkamp",
-    "latitude": 51.4564861,
-    "longitude": 7.253352,
+    "id": "33810",
+    "name": "Stadthaus",
+    "latitude": 51.5082451,
+    "longitude": 7.468783,
+    "bikes_available": null
+  },
+  {
+    "id": "36668",
+    "name": "Marktplatz Hüls",
+    "latitude": 51.6637829,
+    "longitude": 7.1327044,
     "bikes_available": null
   },
   {
@@ -1778,10 +1750,24 @@
     "bikes_available": null
   },
   {
+    "id": "36633",
+    "name": "Theodor-Imberg-Str / Bf Präsident",
+    "latitude": 51.4880487,
+    "longitude": 7.2107481,
+    "bikes_available": null
+  },
+  {
     "id": "36348",
     "name": "Walsumermark",
     "latitude": 51.5477209,
     "longitude": 6.8349807,
+    "bikes_available": null
+  },
+  {
+    "id": "33777",
+    "name": "Bergbaumuseum",
+    "latitude": 51.4890978,
+    "longitude": 7.2157699,
     "bikes_available": null
   },
   {
@@ -1792,17 +1778,10 @@
     "bikes_available": null
   },
   {
-    "id": "34002",
-    "name": "Ruhr-Universität U35",
-    "latitude": 51.4460201,
-    "longitude": 7.259884,
-    "bikes_available": null
-  },
-  {
-    "id": "36420",
-    "name": "Rapen",
-    "latitude": 51.6460118,
-    "longitude": 7.2773293,
+    "id": "34056",
+    "name": "AKAFÖ Erlenkamp",
+    "latitude": 51.4564861,
+    "longitude": 7.253352,
     "bikes_available": null
   },
   {
@@ -1813,17 +1792,31 @@
     "bikes_available": null
   },
   {
-    "id": "33863",
-    "name": "Uni Lotharstr. / Walramsweg",
-    "latitude": 51.4273501,
-    "longitude": 6.797748,
+    "id": "36482",
+    "name": "Dorf Neukirchen",
+    "latitude": 51.4501164,
+    "longitude": 6.5792887,
     "bikes_available": null
   },
   {
-    "id": "33893",
-    "name": "Schmachtendorf Mitte",
-    "latitude": 51.5412511,
-    "longitude": 6.818733,
+    "id": "34177",
+    "name": "Sültenfuss",
+    "latitude": 51.4508801,
+    "longitude": 6.859346,
+    "bikes_available": null
+  },
+  {
+    "id": "34198",
+    "name": "St. Joseph",
+    "latitude": 51.6135911,
+    "longitude": 7.502614,
+    "bikes_available": null
+  },
+  {
+    "id": "36564",
+    "name": "Homberg Freibad",
+    "latitude": 51.4596571,
+    "longitude": 6.6989106,
     "bikes_available": null
   },
   {
@@ -1841,10 +1834,24 @@
     "bikes_available": null
   },
   {
-    "id": "36918",
-    "name": "Freiherr von Stein Gymnasium",
-    "latitude": 51.6160232,
-    "longitude": 7.181773,
+    "id": "36339",
+    "name": "Penny Hamm-Ost",
+    "latitude": 51.691473,
+    "longitude": 7.866727,
+    "bikes_available": null
+  },
+  {
+    "id": "36495",
+    "name": "Kamper Str.- Im Meerfeld",
+    "latitude": 51.4783109,
+    "longitude": 6.6049547,
+    "bikes_available": null
+  },
+  {
+    "id": "34069",
+    "name": "Wanne-Eickel Hbf",
+    "latitude": 51.5316241,
+    "longitude": 7.164626,
     "bikes_available": null
   },
   {
@@ -1862,38 +1869,10 @@
     "bikes_available": null
   },
   {
-    "id": "33791",
-    "name": "Dortmund HBF Nordausgang",
-    "latitude": 51.5190581,
-    "longitude": 7.458767,
-    "bikes_available": null
-  },
-  {
-    "id": "33816",
-    "name": "Bergmann Stehbierhalle",
-    "latitude": 51.4890131,
-    "longitude": 7.487628,
-    "bikes_available": null
-  },
-  {
-    "id": "34270",
-    "name": "Katernberger Markt",
-    "latitude": 51.4974171,
-    "longitude": 7.048187,
-    "bikes_available": null
-  },
-  {
-    "id": "34220",
-    "name": "Rathaus/ Innenstadt",
-    "latitude": 51.4391541,
-    "longitude": 7.336993,
-    "bikes_available": null
-  },
-  {
-    "id": "36593",
-    "name": "Gneisenaustr./Feldherrenstr.",
-    "latitude": 51.5210469,
-    "longitude": 7.4487249,
+    "id": "36898",
+    "name": "Südbahnhof",
+    "latitude": 51.5624566,
+    "longitude": 7.1952167,
     "bikes_available": null
   },
   {
@@ -1904,17 +1883,10 @@
     "bikes_available": null
   },
   {
-    "id": "33920",
-    "name": "Priorstr. / Münsterstr.",
-    "latitude": 51.5222561,
-    "longitude": 7.464609,
-    "bikes_available": null
-  },
-  {
-    "id": "36588",
-    "name": "Huckarde Bushof",
-    "latitude": 51.5346335,
-    "longitude": 7.4152709,
+    "id": "33952",
+    "name": "Wattenscheid Bahnhof",
+    "latitude": 51.4736121,
+    "longitude": 7.139279,
     "bikes_available": null
   },
   {
@@ -1925,6 +1897,13 @@
     "bikes_available": null
   },
   {
+    "id": "33826",
+    "name": "Rathaus / Kuhstr.",
+    "latitude": 51.4340731,
+    "longitude": 6.762675,
+    "bikes_available": null
+  },
+  {
     "id": "36371",
     "name": "Obere Marktstraße",
     "latitude": 51.4684531,
@@ -1932,10 +1911,31 @@
     "bikes_available": null
   },
   {
-    "id": "36452",
-    "name": "Amtsgericht",
-    "latitude": 51.6568936,
-    "longitude": 6.9611187,
+    "id": "33837",
+    "name": "Messe Ost/Gruga",
+    "latitude": 51.4307241,
+    "longitude": 7.00087,
+    "bikes_available": null
+  },
+  {
+    "id": "33858",
+    "name": "Freiheit",
+    "latitude": 51.5815331,
+    "longitude": 7.050809,
+    "bikes_available": null
+  },
+  {
+    "id": "36414",
+    "name": "Antoniusplatz",
+    "latitude": 51.5929167,
+    "longitude": 7.137067,
+    "bikes_available": null
+  },
+  {
+    "id": "33918",
+    "name": "Brackel Kirche",
+    "latitude": 51.5233511,
+    "longitude": 7.546867,
     "bikes_available": null
   },
   {
@@ -1960,10 +1960,10 @@
     "bikes_available": null
   },
   {
-    "id": "34224",
-    "name": "Speicherstrasse",
-    "latitude": 51.5289031,
-    "longitude": 7.446783,
+    "id": "36536",
+    "name": "Bezirksamt Süd",
+    "latitude": 51.3765884,
+    "longitude": 6.7612773,
     "bikes_available": null
   },
   {
@@ -1988,10 +1988,17 @@
     "bikes_available": null
   },
   {
-    "id": "34067",
-    "name": "Univiertel",
-    "latitude": 51.4617651,
-    "longitude": 7.007779,
+    "id": "33962",
+    "name": "Buschhausen Mitte",
+    "latitude": 51.5029731,
+    "longitude": 6.83253,
+    "bikes_available": null
+  },
+  {
+    "id": "36405",
+    "name": "Herten Mitte",
+    "latitude": 51.5948245,
+    "longitude": 7.1394145,
     "bikes_available": null
   },
   {
@@ -2002,31 +2009,24 @@
     "bikes_available": null
   },
   {
-    "id": "35129",
-    "name": "Heßlerstraße",
-    "latitude": 51.5090117,
-    "longitude": 7.0075991,
+    "id": "36583",
+    "name": "Brechten Zentrum",
+    "latitude": 51.5810277,
+    "longitude": 7.4626957,
     "bikes_available": null
   },
   {
-    "id": "33806",
-    "name": "Platz von Netanya",
-    "latitude": 51.5151151,
-    "longitude": 7.464033,
+    "id": "36541",
+    "name": "Sportpark Wedau",
+    "latitude": 51.4072517,
+    "longitude": 6.778704,
     "bikes_available": null
   },
   {
-    "id": "36510",
-    "name": "Stadtgarten Herne",
-    "latitude": 51.541194,
-    "longitude": 7.235722,
-    "bikes_available": null
-  },
-  {
-    "id": "34024",
-    "name": "RUB IC",
-    "latitude": 51.4461641,
-    "longitude": 7.264935,
+    "id": "36515",
+    "name": "Holsterhausen/Bielefelder Straße",
+    "latitude": 51.53125,
+    "longitude": 7.187667,
     "bikes_available": null
   },
   {
@@ -2037,17 +2037,24 @@
     "bikes_available": null
   },
   {
-    "id": "34087",
-    "name": "TU Dortmund Seminarraumgebäude 1",
-    "latitude": 51.4919021,
-    "longitude": 7.410032,
+    "id": "34091",
+    "name": "Gußmannplatz",
+    "latitude": 51.4267621,
+    "longitude": 7.004449,
     "bikes_available": null
   },
   {
-    "id": "36499",
-    "name": "Asberg - Bergheimer Str.",
-    "latitude": 51.4355202,
-    "longitude": 6.6644418,
+    "id": "34092",
+    "name": "Ruhrbahn Essen",
+    "latitude": 51.4371491,
+    "longitude": 7.001477,
+    "bikes_available": null
+  },
+  {
+    "id": "33844",
+    "name": "Universitätsstr.",
+    "latitude": 51.4636411,
+    "longitude": 7.009654,
     "bikes_available": null
   },
   {
@@ -2055,6 +2062,13 @@
     "name": "Schützenhof",
     "latitude": 51.6223311,
     "longitude": 7.526536,
+    "bikes_available": null
+  },
+  {
+    "id": "34073",
+    "name": "Archäologie-Museum / Kreuzkirche",
+    "latitude": 51.5354581,
+    "longitude": 7.226096,
     "bikes_available": null
   },
   {
@@ -2072,10 +2086,10 @@
     "bikes_available": null
   },
   {
-    "id": "36899",
-    "name": "Westfälische Hochschule",
-    "latitude": 51.6118713,
-    "longitude": 7.2108348,
+    "id": "36588",
+    "name": "Huckarde Bushof",
+    "latitude": 51.5346335,
+    "longitude": 7.4152709,
     "bikes_available": null
   },
   {
@@ -2086,10 +2100,10 @@
     "bikes_available": null
   },
   {
-    "id": "36322",
-    "name": "Markt Hövel",
-    "latitude": 51.694884,
-    "longitude": 7.760989,
+    "id": "36584",
+    "name": "Lindenhorst",
+    "latitude": 51.5538068,
+    "longitude": 7.4470467,
     "bikes_available": null
   },
   {
@@ -2142,13 +2156,6 @@
     "bikes_available": null
   },
   {
-    "id": "36339",
-    "name": "Penny Hamm-Ost",
-    "latitude": 51.691473,
-    "longitude": 7.866727,
-    "bikes_available": null
-  },
-  {
     "id": "36341",
     "name": "Stephanuskirche",
     "latitude": 51.6943642,
@@ -2170,10 +2177,10 @@
     "bikes_available": null
   },
   {
-    "id": "36511",
-    "name": "Pantrings Hof",
-    "latitude": 51.570417,
-    "longitude": 7.241306,
+    "id": "37047",
+    "name": "Salzlager",
+    "latitude": 51.4883976,
+    "longitude": 7.0353795,
     "bikes_available": null
   },
   {
@@ -2233,6 +2240,13 @@
     "bikes_available": null
   },
   {
+    "id": "36728",
+    "name": "Rosenhügel",
+    "latitude": 51.543576,
+    "longitude": 7.018639,
+    "bikes_available": null
+  },
+  {
     "id": "36379",
     "name": "Bahnhof Feldhausen",
     "latitude": 51.614819,
@@ -2251,6 +2265,13 @@
     "name": "Danziger Straße",
     "latitude": 51.465846,
     "longitude": 6.8765969,
+    "bikes_available": null
+  },
+  {
+    "id": "36650",
+    "name": "Alte Bahnhofstraße / Wittenbergstraße",
+    "latitude": 51.4747577,
+    "longitude": 7.3061412,
     "bikes_available": null
   },
   {
@@ -2345,13 +2366,6 @@
     "bikes_available": null
   },
   {
-    "id": "36399",
-    "name": "Zeche Waltrop",
-    "latitude": 51.6174402,
-    "longitude": 7.4203418,
-    "bikes_available": null
-  },
-  {
     "id": "36411",
     "name": "Haltepunkt Herten- Westerholt",
     "latitude": 51.6021576,
@@ -2373,13 +2387,6 @@
     "bikes_available": null
   },
   {
-    "id": "36404",
-    "name": "Herner Straße",
-    "latitude": 51.5848147,
-    "longitude": 7.146175,
-    "bikes_available": null
-  },
-  {
     "id": "36409",
     "name": "Scherlebecker Straße",
     "latitude": 51.6187206,
@@ -2387,17 +2394,10 @@
     "bikes_available": null
   },
   {
-    "id": "36410",
-    "name": "Schlossstraße",
-    "latitude": 51.6010873,
-    "longitude": 7.0920542,
-    "bikes_available": null
-  },
-  {
     "id": "36413",
     "name": "Copa Ca Backum",
-    "latitude": 51.6027112,
-    "longitude": 7.1394278,
+    "latitude": 51.6027172,
+    "longitude": 7.1394602,
     "bikes_available": null
   },
   {
@@ -2415,17 +2415,17 @@
     "bikes_available": null
   },
   {
-    "id": "36414",
-    "name": "Antoniusplatz",
-    "latitude": 51.5929167,
-    "longitude": 7.137067,
-    "bikes_available": null
-  },
-  {
     "id": "36415",
     "name": "Marktplatz Westerholt",
     "latitude": 51.5991366,
     "longitude": 7.091544,
+    "bikes_available": null
+  },
+  {
+    "id": "36608",
+    "name": "Scharnhorst Zentrum",
+    "latitude": 51.5525408,
+    "longitude": 7.5426305,
     "bikes_available": null
   },
   {
@@ -2436,24 +2436,10 @@
     "bikes_available": null
   },
   {
-    "id": "36425",
-    "name": "Stadtmühlenbucht",
-    "latitude": 51.7539016,
-    "longitude": 7.2087404,
-    "bikes_available": null
-  },
-  {
     "id": "36427",
     "name": "Silbersee II",
     "latitude": 51.7954157,
     "longitude": 7.2163412,
-    "bikes_available": null
-  },
-  {
-    "id": "36428",
-    "name": "Bahnhof Haltern am See",
-    "latitude": 51.7377454,
-    "longitude": 7.1832281,
     "bikes_available": null
   },
   {
@@ -2499,6 +2485,13 @@
     "bikes_available": null
   },
   {
+    "id": "33847",
+    "name": "Borsigplatz / Oesterholzstr.",
+    "latitude": 51.5239511,
+    "longitude": 7.481904,
+    "bikes_available": null
+  },
+  {
     "id": "36453",
     "name": "Georgplatz",
     "latitude": 51.6599968,
@@ -2513,13 +2506,6 @@
     "bikes_available": null
   },
   {
-    "id": "36455",
-    "name": "Mercaden",
-    "latitude": 51.6631133,
-    "longitude": 6.965181,
-    "bikes_available": null
-  },
-  {
     "id": "36456",
     "name": "Bahnhof Hervest",
     "latitude": 51.6724078,
@@ -2527,31 +2513,10 @@
     "bikes_available": null
   },
   {
-    "id": "34017",
-    "name": "Jugendherberge / MSV Stadion",
-    "latitude": 51.4106051,
-    "longitude": 6.777719,
-    "bikes_available": null
-  },
-  {
     "id": "36459",
     "name": "Anne Bänke",
     "latitude": 51.6623955,
     "longitude": 6.913443,
-    "bikes_available": null
-  },
-  {
-    "id": "36463",
-    "name": "Pfarrheim St. Antonius",
-    "latitude": 51.6765728,
-    "longitude": 6.9383875,
-    "bikes_available": null
-  },
-  {
-    "id": "36464",
-    "name": "Edeka Honsel",
-    "latitude": 51.6815527,
-    "longitude": 6.9534394,
     "bikes_available": null
   },
   {
@@ -2611,24 +2576,10 @@
     "bikes_available": null
   },
   {
-    "id": "33837",
-    "name": "Messe Ost/Gruga",
-    "latitude": 51.4307241,
-    "longitude": 7.00087,
-    "bikes_available": null
-  },
-  {
-    "id": "34100",
-    "name": "Mülheim an der Ruhr HBF Nordeingang",
-    "latitude": 51.4316211,
-    "longitude": 6.886062,
-    "bikes_available": null
-  },
-  {
-    "id": "33966",
-    "name": "Gelsenkirchen HBF Bahnhofsvorplatz",
-    "latitude": 51.5062751,
-    "longitude": 7.100644,
+    "id": "36671",
+    "name": "Busbahnhof Marl",
+    "latitude": 51.6539117,
+    "longitude": 7.0993278,
     "bikes_available": null
   },
   {
@@ -2650,6 +2601,13 @@
     "name": "Gewerbegebiet Friedrich der Große West",
     "latitude": 51.560583,
     "longitude": 7.246139,
+    "bikes_available": null
+  },
+  {
+    "id": "33784",
+    "name": "AKAFÖ Kalwes",
+    "latitude": 51.4437141,
+    "longitude": 7.280826,
     "bikes_available": null
   },
   {
@@ -2678,13 +2636,6 @@
     "name": "Gesamtschule Welper",
     "latitude": 51.4092912,
     "longitude": 7.2167329,
-    "bikes_available": null
-  },
-  {
-    "id": "36530",
-    "name": "Walsum Rathaus/Kometenplatz",
-    "latitude": 51.5267768,
-    "longitude": 6.7430046,
     "bikes_available": null
   },
   {
@@ -2772,6 +2723,13 @@
     "bikes_available": null
   },
   {
+    "id": "33809",
+    "name": "Platz am Südwall",
+    "latitude": 51.5100411,
+    "longitude": 7.46756,
+    "bikes_available": null
+  },
+  {
     "id": "36561",
     "name": "Glückauf-Halle",
     "latitude": 51.4520959,
@@ -2814,20 +2772,6 @@
     "bikes_available": null
   },
   {
-    "id": "36577",
-    "name": "Asseln/Aplerbecker Str.",
-    "latitude": 51.5278804,
-    "longitude": 7.5837649,
-    "bikes_available": null
-  },
-  {
-    "id": "36578",
-    "name": "Adi-Preißler-Allee",
-    "latitude": 51.5368085,
-    "longitude": 7.5531127,
-    "bikes_available": null
-  },
-  {
     "id": "36579",
     "name": "Bf Wickede West",
     "latitude": 51.529389,
@@ -2842,13 +2786,6 @@
     "bikes_available": null
   },
   {
-    "id": "36583",
-    "name": "Brechten Zentrum",
-    "latitude": 51.5810277,
-    "longitude": 7.4626957,
-    "bikes_available": null
-  },
-  {
     "id": "36325",
     "name": "Heessener Markt",
     "latitude": 51.705795,
@@ -2856,10 +2793,17 @@
     "bikes_available": null
   },
   {
-    "id": "36606",
-    "name": "Grevel",
-    "latitude": 51.5620714,
-    "longitude": 7.5469676,
+    "id": "36907",
+    "name": "Technisches Rathaus",
+    "latitude": 51.6097227,
+    "longitude": 7.1786378,
+    "bikes_available": null
+  },
+  {
+    "id": "34087",
+    "name": "TU Dortmund Seminarraumgebäude 1",
+    "latitude": 51.4919021,
+    "longitude": 7.410032,
     "bikes_available": null
   },
   {
@@ -2902,6 +2846,13 @@
     "name": "Freilichtbühne",
     "latitude": 51.4851368,
     "longitude": 7.1406384,
+    "bikes_available": null
+  },
+  {
+    "id": "36957",
+    "name": "Sportparadies",
+    "latitude": 51.552726,
+    "longitude": 7.074722,
     "bikes_available": null
   },
   {
@@ -2982,13 +2933,6 @@
     "bikes_available": null
   },
   {
-    "id": "36650",
-    "name": "Alte Bahnhofstraße / Wittenbergstraße",
-    "latitude": 51.4747577,
-    "longitude": 7.3061412,
-    "bikes_available": null
-  },
-  {
     "id": "36651",
     "name": "Op de Veih",
     "latitude": 51.4555617,
@@ -3017,13 +2961,6 @@
     "bikes_available": null
   },
   {
-    "id": "36667",
-    "name": "Bürgerbad an der Loemühle",
-    "latitude": 51.6570953,
-    "longitude": 7.139267,
-    "bikes_available": null
-  },
-  {
     "id": "36669",
     "name": "Haltestelle Pfarrkirche St.Josef",
     "latitude": 51.6618073,
@@ -3049,27 +2986,6 @@
     "name": "Breite Hille",
     "latitude": 51.4643071,
     "longitude": 7.3386635,
-    "bikes_available": null
-  },
-  {
-    "id": "36673",
-    "name": "Rundsporthalle Marl",
-    "latitude": 51.6597859,
-    "longitude": 7.0987421,
-    "bikes_available": null
-  },
-  {
-    "id": "33868",
-    "name": "Kaiserplatz",
-    "latitude": 51.4280431,
-    "longitude": 6.884463,
-    "bikes_available": null
-  },
-  {
-    "id": "36675",
-    "name": "Haltestelle Bergwerk Auguste Victorias 3/7",
-    "latitude": 51.6868194,
-    "longitude": 7.115873,
     "bikes_available": null
   },
   {
@@ -3129,13 +3045,6 @@
     "bikes_available": null
   },
   {
-    "id": "36407",
-    "name": "Josefstraße",
-    "latitude": 51.6022321,
-    "longitude": 7.1529314,
-    "bikes_available": null
-  },
-  {
     "id": "36690",
     "name": "Markt Resse",
     "latitude": 51.5816163,
@@ -3147,6 +3056,20 @@
     "name": "Schloss Berge",
     "latitude": 51.568367,
     "longitude": 7.0688724,
+    "bikes_available": null
+  },
+  {
+    "id": "34176",
+    "name": "Bodelschwinghplatz",
+    "latitude": 51.4953481,
+    "longitude": 7.189355,
+    "bikes_available": null
+  },
+  {
+    "id": "33783",
+    "name": "Bermuda 3Eck / Konrad-Adenauer-Platz",
+    "latitude": 51.4752991,
+    "longitude": 7.215754,
     "bikes_available": null
   },
   {
@@ -3164,10 +3087,24 @@
     "bikes_available": null
   },
   {
+    "id": "34067",
+    "name": "Univiertel",
+    "latitude": 51.4617651,
+    "longitude": 7.007779,
+    "bikes_available": null
+  },
+  {
     "id": "36707",
     "name": "Surkampstraße",
     "latitude": 51.5563761,
     "longitude": 7.08097,
+    "bikes_available": null
+  },
+  {
+    "id": "34222",
+    "name": "Amazon Logistik Westfalenhütte GmbH DTM3",
+    "latitude": 51.5331621,
+    "longitude": 7.505851,
     "bikes_available": null
   },
   {
@@ -3178,10 +3115,10 @@
     "bikes_available": null
   },
   {
-    "id": "33985",
-    "name": "Arenapark",
-    "latitude": 51.5571761,
-    "longitude": 7.066902,
+    "id": "34125",
+    "name": "Rheinpark",
+    "latitude": 51.4104401,
+    "longitude": 6.752053,
     "bikes_available": null
   },
   {
@@ -3192,24 +3129,17 @@
     "bikes_available": null
   },
   {
-    "id": "34112",
-    "name": "Ostenberg",
-    "latitude": 51.4884651,
-    "longitude": 7.424811,
-    "bikes_available": null
-  },
-  {
-    "id": "36330",
-    "name": "Cafe del Sol/Peitzmeier-Platz",
-    "latitude": 51.665069,
-    "longitude": 7.831814,
-    "bikes_available": null
-  },
-  {
     "id": "36401",
     "name": "LWL Industriemuseum",
     "latitude": 51.6159359,
     "longitude": 7.3264253,
+    "bikes_available": null
+  },
+  {
+    "id": "36644",
+    "name": "Castroper Straße / Einkaufszentrum",
+    "latitude": 51.4917514,
+    "longitude": 7.2441727,
     "bikes_available": null
   },
   {
@@ -3220,10 +3150,17 @@
     "bikes_available": null
   },
   {
-    "id": "36366",
-    "name": "Bebelstraße",
-    "latitude": 51.4696494,
-    "longitude": 6.8374943,
+    "id": "36367",
+    "name": "Fröbelplatz",
+    "latitude": 51.4608428,
+    "longitude": 6.8221938,
+    "bikes_available": null
+  },
+  {
+    "id": "34234",
+    "name": "Witteringstraße 64 Be-MoVe Mobilpunkt",
+    "latitude": 51.4412491,
+    "longitude": 7.011879,
     "bikes_available": null
   },
   {
@@ -3234,6 +3171,13 @@
     "bikes_available": null
   },
   {
+    "id": "35129",
+    "name": "Heßlerstraße",
+    "latitude": 51.5090117,
+    "longitude": 7.0075991,
+    "bikes_available": null
+  },
+  {
     "id": "35520",
     "name": "Stockumer Str. ",
     "latitude": 51.4493498,
@@ -3241,10 +3185,10 @@
     "bikes_available": null
   },
   {
-    "id": "34178",
-    "name": "Koniner Str. & Holsterhauser Str.",
-    "latitude": 51.5285041,
-    "longitude": 7.1995,
+    "id": "33842",
+    "name": "Werden Bahnhof",
+    "latitude": 51.3865821,
+    "longitude": 6.99813,
     "bikes_available": null
   },
   {
@@ -3255,17 +3199,10 @@
     "bikes_available": null
   },
   {
-    "id": "36560",
-    "name": "Moerser Str./Hochheide Markt",
-    "latitude": 51.4497474,
-    "longitude": 6.6856802,
-    "bikes_available": null
-  },
-  {
-    "id": "36605",
-    "name": "Bf Nette/Oestrich",
-    "latitude": 51.5623943,
-    "longitude": 7.3782647,
+    "id": "36364",
+    "name": "Lindnerstr./ Hofstr.",
+    "latitude": 51.4945844,
+    "longitude": 6.8250568,
     "bikes_available": null
   },
   {
@@ -3276,10 +3213,17 @@
     "bikes_available": null
   },
   {
-    "id": "36544",
-    "name": "Lilienthalstr./Javastr.",
-    "latitude": 51.4359813,
-    "longitude": 6.7256415,
+    "id": "33827",
+    "name": "Duisburg HBF Verknüpfungshalle West",
+    "latitude": 51.4315501,
+    "longitude": 6.775088,
+    "bikes_available": null
+  },
+  {
+    "id": "33893",
+    "name": "Schmachtendorf Mitte",
+    "latitude": 51.5412511,
+    "longitude": 6.818733,
     "bikes_available": null
   },
   {
@@ -3311,10 +3255,10 @@
     "bikes_available": null
   },
   {
-    "id": "33950",
-    "name": "Freiheitstraße / Wattenscheid Rathaus",
-    "latitude": 51.4823251,
-    "longitude": 7.134751,
+    "id": "34963",
+    "name": "Manifesta: Markuskirche",
+    "latitude": 51.4464182,
+    "longitude": 6.9617912,
     "bikes_available": null
   },
   {
@@ -3325,10 +3269,24 @@
     "bikes_available": null
   },
   {
-    "id": "36324",
-    "name": "Herringer Markt",
-    "latitude": 51.659953,
-    "longitude": 7.742565,
+    "id": "33833",
+    "name": "Viehofer Str. 41",
+    "latitude": 51.4613611,
+    "longitude": 7.013503,
+    "bikes_available": null
+  },
+  {
+    "id": "33812",
+    "name": "Karl-Liebknecht-Str.",
+    "latitude": 51.4988451,
+    "longitude": 7.489751,
+    "bikes_available": null
+  },
+  {
+    "id": "34154",
+    "name": "Parkstadt Mülheim",
+    "latitude": 51.4241351,
+    "longitude": 6.849529,
     "bikes_available": null
   },
   {
@@ -3339,6 +3297,13 @@
     "bikes_available": null
   },
   {
+    "id": "36589",
+    "name": "Bf Huckarde",
+    "latitude": 51.5326275,
+    "longitude": 7.4020398,
+    "bikes_available": null
+  },
+  {
     "id": "36717",
     "name": "Marktplatz Brauck",
     "latitude": 51.546264,
@@ -3346,10 +3311,17 @@
     "bikes_available": null
   },
   {
-    "id": "36929",
-    "name": "Stadtgarten",
-    "latitude": 51.544946,
-    "longitude": 7.3136425,
+    "id": "34965",
+    "name": "Manifesta: St. Bonifatius",
+    "latitude": 51.5554089,
+    "longitude": 7.0960728,
+    "bikes_available": null
+  },
+  {
+    "id": "36540",
+    "name": "Wedauer Markt",
+    "latitude": 51.3918382,
+    "longitude": 6.7965684,
     "bikes_available": null
   },
   {
@@ -3367,31 +3339,24 @@
     "bikes_available": null
   },
   {
-    "id": "34186",
-    "name": "Rüttenscheider Str. 38",
-    "latitude": 51.4406671,
-    "longitude": 7.006317,
+    "id": "36322",
+    "name": "Markt Hövel",
+    "latitude": 51.694884,
+    "longitude": 7.760989,
     "bikes_available": null
   },
   {
-    "id": "33872",
-    "name": "Styrum Bahnhof",
-    "latitude": 51.4486451,
-    "longitude": 6.852497,
+    "id": "36284",
+    "name": "Asberg - Essenberger Straße",
+    "latitude": 51.4449554,
+    "longitude": 6.6603139,
     "bikes_available": null
   },
   {
-    "id": "33878",
-    "name": "Wohnheim Schemkesweg",
-    "latitude": 51.4276481,
-    "longitude": 6.785131,
-    "bikes_available": null
-  },
-  {
-    "id": "36548",
-    "name": "Hochemmericher Markt",
-    "latitude": 51.4106218,
-    "longitude": 6.7198087,
+    "id": "34097",
+    "name": "Hombruch Marktplatz",
+    "latitude": 51.4760381,
+    "longitude": 7.439691,
     "bikes_available": null
   },
   {
@@ -3406,6 +3371,13 @@
     "name": "RUB NC",
     "latitude": 51.4451981,
     "longitude": 7.264999,
+    "bikes_available": null
+  },
+  {
+    "id": "34122",
+    "name": "Sternbuschweg",
+    "latitude": 51.4207541,
+    "longitude": 6.784106,
     "bikes_available": null
   },
   {
@@ -3430,10 +3402,10 @@
     "bikes_available": null
   },
   {
-    "id": "36467",
-    "name": "Stadtbad",
-    "latitude": 51.6490381,
-    "longitude": 7.3337912,
+    "id": "33902",
+    "name": "Heißen Kirche",
+    "latitude": 51.4334511,
+    "longitude": 6.925077,
     "bikes_available": null
   },
   {
@@ -3465,17 +3437,17 @@
     "bikes_available": null
   },
   {
+    "id": "36914",
+    "name": "Rathausplatz",
+    "latitude": 51.6115748,
+    "longitude": 7.1991003,
+    "bikes_available": null
+  },
+  {
     "id": "36709",
     "name": "Lehrhovebruch",
     "latitude": 51.5219081,
     "longitude": 7.0456841,
-    "bikes_available": null
-  },
-  {
-    "id": "33781",
-    "name": "Rathaus / Willy-Brandt-Platz",
-    "latitude": 51.4818439,
-    "longitude": 7.2150618,
     "bikes_available": null
   },
   {
@@ -3486,17 +3458,10 @@
     "bikes_available": null
   },
   {
-    "id": "34155",
-    "name": "Jahrhunderthalle",
-    "latitude": 51.4804441,
-    "longitude": 7.198083,
-    "bikes_available": null
-  },
-  {
-    "id": "36658",
-    "name": "Werner Hellweg / Heroldstraße",
-    "latitude": 51.4922918,
-    "longitude": 7.3095109,
+    "id": "34029",
+    "name": "HBF Hamm",
+    "latitude": 51.6788561,
+    "longitude": 7.80916,
     "bikes_available": null
   },
   {
@@ -3542,6 +3507,20 @@
     "bikes_available": null
   },
   {
+    "id": "34024",
+    "name": "RUB IC",
+    "latitude": 51.4461641,
+    "longitude": 7.264935,
+    "bikes_available": null
+  },
+  {
+    "id": "36452",
+    "name": "Amtsgericht",
+    "latitude": 51.6568936,
+    "longitude": 6.9611187,
+    "bikes_available": null
+  },
+  {
     "id": "36534",
     "name": "Moltkeplatz (Homberg)",
     "latitude": 51.4532128,
@@ -3556,13 +3535,6 @@
     "bikes_available": null
   },
   {
-    "id": "34176",
-    "name": "Bodelschwinghplatz",
-    "latitude": 51.4953481,
-    "longitude": 7.189355,
-    "bikes_available": null
-  },
-  {
     "id": "34185",
     "name": "Menzelstr. 24",
     "latitude": 51.4406101,
@@ -3570,10 +3542,10 @@
     "bikes_available": null
   },
   {
-    "id": "36540",
-    "name": "Wedauer Markt",
-    "latitude": 51.3918382,
-    "longitude": 6.7965684,
+    "id": "33807",
+    "name": "AKAFÖ Auf der Papenburg",
+    "latitude": 51.4544341,
+    "longitude": 7.259746,
     "bikes_available": null
   },
   {
@@ -3605,13 +3577,6 @@
     "bikes_available": null
   },
   {
-    "id": "33873",
-    "name": "Mobilstation Alte Straße",
-    "latitude": 51.4071841,
-    "longitude": 6.869749,
-    "bikes_available": null
-  },
-  {
     "id": "33889",
     "name": "Buer Nordbahnhof",
     "latitude": 51.5872101,
@@ -3640,6 +3605,13 @@
     "bikes_available": null
   },
   {
+    "id": "36467",
+    "name": "Stadtbad",
+    "latitude": 51.6490381,
+    "longitude": 7.3337912,
+    "bikes_available": null
+  },
+  {
     "id": "34262",
     "name": "Thingstraße/Im Welperfeld",
     "latitude": 51.4115551,
@@ -3647,10 +3619,10 @@
     "bikes_available": null
   },
   {
-    "id": "36703",
-    "name": "Fürstinnenstraße",
-    "latitude": 51.5133028,
-    "longitude": 7.0714346,
+    "id": "36926",
+    "name": "Elisabeth Krankenhaus",
+    "latitude": 51.568528,
+    "longitude": 7.2082491,
     "bikes_available": null
   },
   {
@@ -3661,17 +3633,10 @@
     "bikes_available": null
   },
   {
-    "id": "34965",
-    "name": "Manifesta: St. Bonifatius",
-    "latitude": 51.5554089,
-    "longitude": 7.0960728,
-    "bikes_available": null
-  },
-  {
-    "id": "33954",
-    "name": "Metternichstraße",
-    "latitude": 51.4679241,
-    "longitude": 7.127337,
+    "id": "33838",
+    "name": "Saarlandstr. / Hohe Str.",
+    "latitude": 51.5052131,
+    "longitude": 7.459899,
     "bikes_available": null
   },
   {
@@ -3682,17 +3647,17 @@
     "bikes_available": null
   },
   {
+    "id": "34186",
+    "name": "Rüttenscheider Str. 38",
+    "latitude": 51.4406671,
+    "longitude": 7.006317,
+    "bikes_available": null
+  },
+  {
     "id": "34095",
     "name": "Am Beilstück",
     "latitude": 51.4867471,
     "longitude": 7.43575,
-    "bikes_available": null
-  },
-  {
-    "id": "34122",
-    "name": "Sternbuschweg",
-    "latitude": 51.4207541,
-    "longitude": 6.784106,
     "bikes_available": null
   },
   {
@@ -3703,6 +3668,13 @@
     "bikes_available": null
   },
   {
+    "id": "36407",
+    "name": "Josefstraße",
+    "latitude": 51.6022321,
+    "longitude": 7.1529314,
+    "bikes_available": null
+  },
+  {
     "id": "33965",
     "name": "Alsfeld Jägerstr.",
     "latitude": 51.5281831,
@@ -3710,10 +3682,10 @@
     "bikes_available": null
   },
   {
-    "id": "33815",
-    "name": "Westfalenhalle",
-    "latitude": 51.4967011,
-    "longitude": 7.459367,
+    "id": "34104",
+    "name": "Rüschebrinkstrasse",
+    "latitude": 51.5209871,
+    "longitude": 7.520378,
     "bikes_available": null
   },
   {
@@ -3738,13 +3710,6 @@
     "bikes_available": null
   },
   {
-    "id": "34011",
-    "name": "Hahnenfähre",
-    "latitude": 51.4035261,
-    "longitude": 6.898921,
-    "bikes_available": null
-  },
-  {
     "id": "36688",
     "name": "Graf Bismarck",
     "latitude": 51.5444954,
@@ -3759,10 +3724,10 @@
     "bikes_available": null
   },
   {
-    "id": "33969",
-    "name": "Uni-Nord Lotharstr.",
-    "latitude": 51.4330561,
-    "longitude": 6.799893,
+    "id": "33816",
+    "name": "Bergmann Stehbierhalle",
+    "latitude": 51.4890131,
+    "longitude": 7.487628,
     "bikes_available": null
   },
   {
@@ -3794,10 +3759,10 @@
     "bikes_available": null
   },
   {
-    "id": "36492",
-    "name": "Länglingsweg",
-    "latitude": 51.4259775,
-    "longitude": 6.6592202,
+    "id": "36665",
+    "name": "Radstation Marl-Sinsen",
+    "latitude": 51.6681706,
+    "longitude": 7.1733234,
     "bikes_available": null
   },
   {
@@ -3822,17 +3787,10 @@
     "bikes_available": null
   },
   {
-    "id": "33952",
-    "name": "Wattenscheid Bahnhof",
-    "latitude": 51.4736121,
-    "longitude": 7.139279,
-    "bikes_available": null
-  },
-  {
-    "id": "36633",
-    "name": "Theodor-Imberg-Str / Bf Präsident",
-    "latitude": 51.4880487,
-    "longitude": 7.2107481,
+    "id": "33891",
+    "name": "Essen HBF Nordausgang",
+    "latitude": 51.4519981,
+    "longitude": 7.014223,
     "bikes_available": null
   },
   {
@@ -3843,24 +3801,10 @@
     "bikes_available": null
   },
   {
-    "id": "34010",
-    "name": "AKAFÖ Wodanstraße",
-    "latitude": 51.5658981,
-    "longitude": 7.080963,
-    "bikes_available": null
-  },
-  {
-    "id": "34102",
-    "name": "Am Blumenkampshof",
-    "latitude": 51.4429601,
-    "longitude": 6.727086,
-    "bikes_available": null
-  },
-  {
-    "id": "33847",
-    "name": "Borsigplatz / Oesterholzstr.",
-    "latitude": 51.5239511,
-    "longitude": 7.481904,
+    "id": "33868",
+    "name": "Kaiserplatz",
+    "latitude": 51.4280431,
+    "longitude": 6.884463,
     "bikes_available": null
   },
   {
@@ -3882,27 +3826,6 @@
     "name": "Breslauer Str.",
     "latitude": 51.4439041,
     "longitude": 6.97781,
-    "bikes_available": null
-  },
-  {
-    "id": "33973",
-    "name": "Röntgenstr.",
-    "latitude": 51.4616511,
-    "longitude": 6.974108,
-    "bikes_available": null
-  },
-  {
-    "id": "33804",
-    "name": "Unionstr.",
-    "latitude": 51.5130691,
-    "longitude": 7.448886,
-    "bikes_available": null
-  },
-  {
-    "id": "36564",
-    "name": "Homberg Freibad",
-    "latitude": 51.4596571,
-    "longitude": 6.6989106,
     "bikes_available": null
   },
   {
@@ -3934,10 +3857,10 @@
     "bikes_available": null
   },
   {
-    "id": "36524",
-    "name": "Herbststr./Lohengrinstr.",
-    "latitude": 51.4658222,
-    "longitude": 6.7664852,
+    "id": "33872",
+    "name": "Styrum Bahnhof",
+    "latitude": 51.4486451,
+    "longitude": 6.852497,
     "bikes_available": null
   },
   {
@@ -3997,17 +3920,24 @@
     "bikes_available": null
   },
   {
-    "id": "34153",
-    "name": "Hölkeskampring",
-    "latitude": 51.5298331,
-    "longitude": 7.220833,
+    "id": "34039",
+    "name": "Bochumer Fenster / Massenbergstr.",
+    "latitude": 51.4804574,
+    "longitude": 7.2211739,
     "bikes_available": null
   },
   {
-    "id": "33961",
-    "name": "Lirich Wickstraße",
-    "latitude": 51.4813361,
-    "longitude": 6.834687,
+    "id": "36450",
+    "name": "Busbahnhof Dorsten",
+    "latitude": 51.6585701,
+    "longitude": 6.9699877,
+    "bikes_available": null
+  },
+  {
+    "id": "33979",
+    "name": "Martinstr.",
+    "latitude": 51.4339991,
+    "longitude": 7.003559,
     "bikes_available": null
   },
   {
@@ -4025,10 +3955,17 @@
     "bikes_available": null
   },
   {
-    "id": "36525",
-    "name": "Auf dem Damm",
-    "latitude": 51.4657672,
-    "longitude": 6.7728765,
+    "id": "34060",
+    "name": "Mobilstation Kronprinzenstrasse",
+    "latitude": 51.4453551,
+    "longitude": 7.017753,
+    "bikes_available": null
+  },
+  {
+    "id": "33781",
+    "name": "Rathaus / Willy-Brandt-Platz",
+    "latitude": 51.4818439,
+    "longitude": 7.2150618,
     "bikes_available": null
   },
   {
@@ -4039,17 +3976,17 @@
     "bikes_available": null
   },
   {
+    "id": "36286",
+    "name": "Wilhelm-Müller-Straße",
+    "latitude": 51.4417949,
+    "longitude": 6.6453546,
+    "bikes_available": null
+  },
+  {
     "id": "33943",
     "name": "Heiliger Weg / Kronprinzenstr.",
     "latitude": 51.5107821,
     "longitude": 7.474034,
-    "bikes_available": null
-  },
-  {
-    "id": "34222",
-    "name": "Amazon Logistik Westfalenhütte GmbH DTM3",
-    "latitude": 51.5331621,
-    "longitude": 7.505851,
     "bikes_available": null
   },
   {
@@ -4067,17 +4004,24 @@
     "bikes_available": null
   },
   {
-    "id": "33862",
-    "name": "Duisburg HBF Verknüpfungshalle Ost",
-    "latitude": 51.4318791,
-    "longitude": 6.778436,
+    "id": "33794",
+    "name": "RWE Tower",
+    "latitude": 51.5167261,
+    "longitude": 7.461765,
     "bikes_available": null
   },
   {
-    "id": "34182",
-    "name": "Raffelberg",
-    "latitude": 51.4323811,
-    "longitude": 6.824055,
+    "id": "36679",
+    "name": "Haltestelle Am Theater",
+    "latitude": 51.6523658,
+    "longitude": 7.0886999,
+    "bikes_available": null
+  },
+  {
+    "id": "33854",
+    "name": "Schloss Horst",
+    "latitude": 51.5365561,
+    "longitude": 7.025644,
     "bikes_available": null
   },
   {
@@ -4102,17 +4046,17 @@
     "bikes_available": null
   },
   {
-    "id": "34236",
-    "name": "Wohnheim Heinrich-Lersch-Str. 36-38",
-    "latitude": 51.4289171,
-    "longitude": 6.784323,
+    "id": "36463",
+    "name": "Pfarrheim St. Antonius",
+    "latitude": 51.6765728,
+    "longitude": 6.9383875,
     "bikes_available": null
   },
   {
-    "id": "33795",
-    "name": "Kuckelke",
-    "latitude": 51.5168311,
-    "longitude": 7.469189,
+    "id": "33705",
+    "name": "Essen Hauptbahnhof Süd",
+    "latitude": 51.4521625,
+    "longitude": 7.0144531,
     "bikes_available": null
   },
   {
@@ -4120,6 +4064,13 @@
     "name": "Uni-Center West / Hallenbad",
     "latitude": 51.4480831,
     "longitude": 7.255783,
+    "bikes_available": null
+  },
+  {
+    "id": "34011",
+    "name": "Hahnenfähre",
+    "latitude": 51.4035261,
+    "longitude": 6.898921,
     "bikes_available": null
   },
   {
@@ -4134,6 +4085,13 @@
     "name": "Aplerbeck",
     "latitude": 51.4930056,
     "longitude": 7.5560982,
+    "bikes_available": null
+  },
+  {
+    "id": "34188",
+    "name": "GNS Essen",
+    "latitude": 51.4543491,
+    "longitude": 7.000621,
     "bikes_available": null
   },
   {
@@ -4179,13 +4137,6 @@
     "bikes_available": null
   },
   {
-    "id": "34141",
-    "name": "GEBAG Quartier Neudorf-Nord",
-    "latitude": 51.4293301,
-    "longitude": 6.79364,
-    "bikes_available": null
-  },
-  {
     "id": "33993",
     "name": "Uni-Center Ost",
     "latitude": 51.4484811,
@@ -4200,13 +4151,6 @@
     "bikes_available": null
   },
   {
-    "id": "33867",
-    "name": "Mülheim HBF Westeingang",
-    "latitude": 51.4298991,
-    "longitude": 6.886137,
-    "bikes_available": null
-  },
-  {
     "id": "34050",
     "name": "Technische Berufliche Schule 1",
     "latitude": 51.4810561,
@@ -4214,10 +4158,17 @@
     "bikes_available": null
   },
   {
-    "id": "33877",
-    "name": "Kammerstr. / Wohnheim",
-    "latitude": 51.4222801,
-    "longitude": 6.791842,
+    "id": "36464",
+    "name": "Edeka Honsel",
+    "latitude": 51.6815527,
+    "longitude": 6.9534394,
+    "bikes_available": null
+  },
+  {
+    "id": "33907",
+    "name": "Speldorf-Betriebshof",
+    "latitude": 51.4290591,
+    "longitude": 6.840143,
     "bikes_available": null
   },
   {
@@ -4228,17 +4179,10 @@
     "bikes_available": null
   },
   {
-    "id": "33934",
-    "name": "Ritterhausstr.",
-    "latitude": 51.5093431,
-    "longitude": 7.446789,
-    "bikes_available": null
-  },
-  {
-    "id": "33859",
-    "name": "Duisburg HBF Osteingang",
-    "latitude": 51.4297381,
-    "longitude": 6.777771,
+    "id": "36488",
+    "name": "Meerbeck - Volkspark",
+    "latitude": 51.4646538,
+    "longitude": 6.6464775,
     "bikes_available": null
   },
   {
@@ -4284,6 +4228,13 @@
     "bikes_available": null
   },
   {
+    "id": "33787",
+    "name": "Knappschaftskrankenhaus Bottrop",
+    "latitude": 51.5153081,
+    "longitude": 6.908542,
+    "bikes_available": null
+  },
+  {
     "id": "34030",
     "name": "EVAG-Betriebshof Mitte",
     "latitude": 51.4594451,
@@ -4298,10 +4249,10 @@
     "bikes_available": null
   },
   {
-    "id": "34198",
-    "name": "St. Joseph",
-    "latitude": 51.6135911,
-    "longitude": 7.502614,
+    "id": "34112",
+    "name": "Ostenberg",
+    "latitude": 51.4884651,
+    "longitude": 7.424811,
     "bikes_available": null
   },
   {
@@ -4326,10 +4277,10 @@
     "bikes_available": null
   },
   {
-    "id": "34273",
-    "name": "Witten Amazon DTM9",
-    "latitude": 51.4573161,
-    "longitude": 7.397929,
+    "id": "33898",
+    "name": "Wehrstr. / Mellinghofer Str.",
+    "latitude": 51.4705671,
+    "longitude": 6.886126,
     "bikes_available": null
   },
   {
@@ -4340,6 +4291,13 @@
     "bikes_available": null
   },
   {
+    "id": "33806",
+    "name": "Platz von Netanya",
+    "latitude": 51.5151151,
+    "longitude": 7.464033,
+    "bikes_available": null
+  },
+  {
     "id": "36513",
     "name": "Gartenstadt",
     "latitude": 51.518444,
@@ -4347,10 +4305,10 @@
     "bikes_available": null
   },
   {
-    "id": "33916",
-    "name": "Altenessen Mitte",
-    "latitude": 51.4963541,
-    "longitude": 7.008516,
+    "id": "33866",
+    "name": "Wasserbahnhof",
+    "latitude": 51.4226471,
+    "longitude": 6.875923,
     "bikes_available": null
   },
   {
@@ -4382,10 +4340,10 @@
     "bikes_available": null
   },
   {
-    "id": "36589",
-    "name": "Bf Huckarde",
-    "latitude": 51.5326275,
-    "longitude": 7.4020398,
+    "id": "34032",
+    "name": "I. Dellbrügge / Kettwiger Str.",
+    "latitude": 51.4545451,
+    "longitude": 7.013016,
     "bikes_available": null
   },
   {
@@ -4403,13 +4361,6 @@
     "bikes_available": null
   },
   {
-    "id": "33864",
-    "name": "Schloss Strünkede",
-    "latitude": 51.5518831,
-    "longitude": 7.214043,
-    "bikes_available": null
-  },
-  {
     "id": "34245",
     "name": "Dortmunder Straße",
     "latitude": 51.6119811,
@@ -4424,13 +4375,6 @@
     "bikes_available": null
   },
   {
-    "id": "33884",
-    "name": "Rüttenscheider Stern",
-    "latitude": 51.4381931,
-    "longitude": 7.005667,
-    "bikes_available": null
-  },
-  {
     "id": "33852",
     "name": "Zoom-Erlebniswelt",
     "latitude": 51.5417851,
@@ -4442,6 +4386,13 @@
     "name": "Dahnstraße Be-MoVe Mobilpunkt",
     "latitude": 51.4499981,
     "longitude": 6.977579,
+    "bikes_available": null
+  },
+  {
+    "id": "34153",
+    "name": "Hölkeskampring",
+    "latitude": 51.5298331,
+    "longitude": 7.220833,
     "bikes_available": null
   },
   {
@@ -4487,10 +4438,17 @@
     "bikes_available": null
   },
   {
-    "id": "36536",
-    "name": "Bezirksamt Süd",
-    "latitude": 51.3765884,
-    "longitude": 6.7612773,
+    "id": "33954",
+    "name": "Metternichstraße",
+    "latitude": 51.4679241,
+    "longitude": 7.127337,
+    "bikes_available": null
+  },
+  {
+    "id": "36272",
+    "name": "Moers Bahnhof",
+    "latitude": 51.4505388,
+    "longitude": 6.6408113,
     "bikes_available": null
   },
   {
@@ -4508,20 +4466,6 @@
     "bikes_available": null
   },
   {
-    "id": "33787",
-    "name": "Knappschaftskrankenhaus Bottrop",
-    "latitude": 51.5153081,
-    "longitude": 6.908542,
-    "bikes_available": null
-  },
-  {
-    "id": "33807",
-    "name": "AKAFÖ Auf der Papenburg",
-    "latitude": 51.4544341,
-    "longitude": 7.259746,
-    "bikes_available": null
-  },
-  {
     "id": "34151",
     "name": "HCR-Betriebshof",
     "latitude": 51.5476211,
@@ -4529,10 +4473,38 @@
     "bikes_available": null
   },
   {
+    "id": "34126",
+    "name": "UDE Leimkugelstrasse",
+    "latitude": 51.4726961,
+    "longitude": 7.004685,
+    "bikes_available": null
+  },
+  {
     "id": "33994",
     "name": "Lennershof",
     "latitude": 51.4506591,
     "longitude": 7.265415,
+    "bikes_available": null
+  },
+  {
+    "id": "33876",
+    "name": "Schloss Broich / Stadthalle",
+    "latitude": 51.4277151,
+    "longitude": 6.873713,
+    "bikes_available": null
+  },
+  {
+    "id": "34102",
+    "name": "Am Blumenkampshof",
+    "latitude": 51.4429601,
+    "longitude": 6.727086,
+    "bikes_available": null
+  },
+  {
+    "id": "36552",
+    "name": "Rheinhausen Bf",
+    "latitude": 51.3931598,
+    "longitude": 6.7063288,
     "bikes_available": null
   },
   {
@@ -4547,13 +4519,6 @@
     "name": "Holten Bahnhof",
     "latitude": 51.5337361,
     "longitude": 6.810408,
-    "bikes_available": null
-  },
-  {
-    "id": "33846",
-    "name": "Essen Südbahnhof",
-    "latitude": 51.4394501,
-    "longitude": 7.023503,
     "bikes_available": null
   },
   {
@@ -4585,6 +4550,13 @@
     "bikes_available": null
   },
   {
+    "id": "36548",
+    "name": "Hochemmericher Markt",
+    "latitude": 51.4106218,
+    "longitude": 6.7198087,
+    "bikes_available": null
+  },
+  {
     "id": "33896",
     "name": "Innenstadt Alt-OB/Bert-Brecht-Haus",
     "latitude": 51.4702501,
@@ -4599,17 +4571,17 @@
     "bikes_available": null
   },
   {
-    "id": "34124",
-    "name": "Brückenplatz",
-    "latitude": 51.4244041,
-    "longitude": 6.75458,
+    "id": "36492",
+    "name": "Länglingsweg",
+    "latitude": 51.4259775,
+    "longitude": 6.6592202,
     "bikes_available": null
   },
   {
-    "id": "34014",
-    "name": "RRZ/ Festival-Garden",
-    "latitude": 51.4372331,
-    "longitude": 6.956513,
+    "id": "33867",
+    "name": "Mülheim HBF Westeingang",
+    "latitude": 51.4298991,
+    "longitude": 6.886137,
     "bikes_available": null
   },
   {
@@ -4617,6 +4589,13 @@
     "name": "In den Haesen",
     "latitude": 51.4611194,
     "longitude": 6.6906158,
+    "bikes_available": null
+  },
+  {
+    "id": "33820",
+    "name": "Duisburg HBF Haupteingang",
+    "latitude": 51.4306311,
+    "longitude": 6.773474,
     "bikes_available": null
   },
   {
@@ -4683,6 +4662,13 @@
     "bikes_available": null
   },
   {
+    "id": "33934",
+    "name": "Ritterhausstr.",
+    "latitude": 51.5093431,
+    "longitude": 7.446789,
+    "bikes_available": null
+  },
+  {
     "id": "33924",
     "name": "Berliner Str.",
     "latitude": 51.5154731,
@@ -4697,13 +4683,6 @@
     "bikes_available": null
   },
   {
-    "id": "34206",
-    "name": "Bürgerzentrum",
-    "latitude": 51.5847931,
-    "longitude": 7.506624,
-    "bikes_available": null
-  },
-  {
     "id": "34009",
     "name": "Kronenburg",
     "latitude": 51.5044221,
@@ -4715,6 +4694,13 @@
     "name": "TU Dortmund Hörsaalgebäude 2",
     "latitude": 51.4922961,
     "longitude": 7.41273,
+    "bikes_available": null
+  },
+  {
+    "id": "36417",
+    "name": "Berliner Platz Oer-Er",
+    "latitude": 51.6399176,
+    "longitude": 7.2613458,
     "bikes_available": null
   },
   {
@@ -4746,13 +4732,6 @@
     "bikes_available": null
   },
   {
-    "id": "34156",
-    "name": "Jahrhunderthaus",
-    "latitude": 51.4793061,
-    "longitude": 7.202972,
-    "bikes_available": null
-  },
-  {
     "id": "35009",
     "name": "Kirmesplatz",
     "latitude": 51.4877742,
@@ -4760,24 +4739,38 @@
     "bikes_available": null
   },
   {
-    "id": "33866",
-    "name": "Wasserbahnhof",
-    "latitude": 51.4226471,
-    "longitude": 6.875923,
+    "id": "36658",
+    "name": "Werner Hellweg / Heroldstraße",
+    "latitude": 51.4922918,
+    "longitude": 7.3095109,
     "bikes_available": null
   },
   {
-    "id": "34069",
-    "name": "Wanne-Eickel Hbf",
-    "latitude": 51.5316241,
-    "longitude": 7.164626,
+    "id": "33818",
+    "name": "Dellplatz",
+    "latitude": 51.4301901,
+    "longitude": 6.76201,
     "bikes_available": null
   },
   {
-    "id": "33876",
-    "name": "Schloss Broich / Stadthalle",
-    "latitude": 51.4277151,
-    "longitude": 6.873713,
+    "id": "36418",
+    "name": "Hünenenplatz",
+    "latitude": 51.6492792,
+    "longitude": 7.2537429,
+    "bikes_available": null
+  },
+  {
+    "id": "34180",
+    "name": "Gewerbegebiet Friedrich der Große",
+    "latitude": 51.5626651,
+    "longitude": 7.257189,
+    "bikes_available": null
+  },
+  {
+    "id": "34220",
+    "name": "Rathaus/ Innenstadt",
+    "latitude": 51.4391541,
+    "longitude": 7.336993,
     "bikes_available": null
   },
   {
@@ -4795,13 +4788,6 @@
     "bikes_available": null
   },
   {
-    "id": "34113",
-    "name": "Baroper Strasse",
-    "latitude": 51.4822511,
-    "longitude": 7.410021,
-    "bikes_available": null
-  },
-  {
     "id": "34161",
     "name": "ZESS Gebäude",
     "latitude": 51.4690541,
@@ -4809,10 +4795,24 @@
     "bikes_available": null
   },
   {
+    "id": "34124",
+    "name": "Brückenplatz",
+    "latitude": 51.4244041,
+    "longitude": 6.75458,
+    "bikes_available": null
+  },
+  {
     "id": "34118",
     "name": "HRW/Parkhaus",
     "latitude": 51.4277251,
     "longitude": 6.860506,
+    "bikes_available": null
+  },
+  {
+    "id": "33915",
+    "name": "Altenessen Bahnhof",
+    "latitude": 51.4844901,
+    "longitude": 7.008773,
     "bikes_available": null
   },
   {
@@ -4865,6 +4865,13 @@
     "bikes_available": null
   },
   {
+    "id": "34150",
+    "name": "Spar- und Bauverein Althoffblock",
+    "latitude": 51.5070061,
+    "longitude": 7.445501,
+    "bikes_available": null
+  },
+  {
     "id": "33959",
     "name": "Grillo-Gymnasium",
     "latitude": 51.5127561,
@@ -4876,13 +4883,6 @@
     "name": "Südstraße/Straßenverkehrsamt",
     "latitude": 51.5236241,
     "longitude": 7.195112,
-    "bikes_available": null
-  },
-  {
-    "id": "33980",
-    "name": "Girardethaus",
-    "latitude": 51.4300431,
-    "longitude": 7.00321,
     "bikes_available": null
   },
   {
@@ -4914,10 +4914,24 @@
     "bikes_available": null
   },
   {
+    "id": "33792",
+    "name": "Cinestar",
+    "latitude": 51.5191603,
+    "longitude": 7.4601678,
+    "bikes_available": null
+  },
+  {
     "id": "34143",
     "name": "O-Werk",
     "latitude": 51.4648661,
     "longitude": 7.25824,
+    "bikes_available": null
+  },
+  {
+    "id": "36285",
+    "name": "Uerdinger Straße",
+    "latitude": 51.4455617,
+    "longitude": 6.6358701,
     "bikes_available": null
   },
   {
@@ -4928,10 +4942,24 @@
     "bikes_available": null
   },
   {
-    "id": "36286",
-    "name": "Wilhelm-Müller-Straße",
-    "latitude": 51.4417949,
-    "longitude": 6.6453546,
+    "id": "34141",
+    "name": "GEBAG Quartier Neudorf-Nord",
+    "latitude": 51.4293301,
+    "longitude": 6.79364,
+    "bikes_available": null
+  },
+  {
+    "id": "36597",
+    "name": "Oestermärsch/Lütgeholz",
+    "latitude": 51.5219994,
+    "longitude": 7.4776333,
+    "bikes_available": null
+  },
+  {
+    "id": "33863",
+    "name": "Uni Lotharstr. / Walramsweg",
+    "latitude": 51.4273501,
+    "longitude": 6.797748,
     "bikes_available": null
   },
   {
@@ -4963,17 +4991,17 @@
     "bikes_available": null
   },
   {
-    "id": "33826",
-    "name": "Rathaus / Kuhstr.",
-    "latitude": 51.4340731,
-    "longitude": 6.762675,
+    "id": "33909",
+    "name": "Broicher Waldweg",
+    "latitude": 51.4206141,
+    "longitude": 6.846575,
     "bikes_available": null
   },
   {
-    "id": "36904",
-    "name": "Gertrudisplatz",
-    "latitude": 51.5910311,
-    "longitude": 7.2120268,
+    "id": "33804",
+    "name": "Unionstr.",
+    "latitude": 51.5130691,
+    "longitude": 7.448886,
     "bikes_available": null
   },
   {
@@ -4984,10 +5012,45 @@
     "bikes_available": null
   },
   {
+    "id": "36410",
+    "name": "Schlossstraße",
+    "latitude": 51.6010873,
+    "longitude": 7.0920542,
+    "bikes_available": null
+  },
+  {
+    "id": "36466",
+    "name": "Busbahnhof / Neumarkt",
+    "latitude": 51.6521432,
+    "longitude": 7.3388038,
+    "bikes_available": null
+  },
+  {
+    "id": "36932",
+    "name": "Rathaus / Sportpark Castroper Holz",
+    "latitude": 51.5652271,
+    "longitude": 7.3084146,
+    "bikes_available": null
+  },
+  {
     "id": "34074",
     "name": "Preußenstraße",
     "latitude": 51.5928441,
     "longitude": 7.549448,
+    "bikes_available": null
+  },
+  {
+    "id": "33800",
+    "name": "Volksbank",
+    "latitude": 51.5131161,
+    "longitude": 7.467039,
+    "bikes_available": null
+  },
+  {
+    "id": "36524",
+    "name": "Herbststr./Lohengrinstr.",
+    "latitude": 51.4658222,
+    "longitude": 6.7664852,
     "bikes_available": null
   },
   {
@@ -4998,31 +5061,38 @@
     "bikes_available": null
   },
   {
-    "id": "34013",
-    "name": "Nordstraße",
-    "latitude": 51.4474551,
-    "longitude": 6.911387,
+    "id": "36942",
+    "name": "Hauptbahnhof",
+    "latitude": 51.5729857,
+    "longitude": 7.3048211,
     "bikes_available": null
   },
   {
-    "id": "34073",
-    "name": "Archäologie-Museum / Kreuzkirche",
-    "latitude": 51.5354581,
-    "longitude": 7.226096,
+    "id": "36525",
+    "name": "Auf dem Damm",
+    "latitude": 51.4657672,
+    "longitude": 6.7728765,
     "bikes_available": null
   },
   {
-    "id": "34149",
-    "name": "Spar- und Bauverein Unionviertel",
-    "latitude": 51.5107391,
-    "longitude": 7.443023,
+    "id": "33835",
+    "name": "Hirschlandplatz",
+    "latitude": 51.4544231,
+    "longitude": 7.011292,
     "bikes_available": null
   },
   {
-    "id": "36486",
-    "name": "Repelen Markt",
-    "latitude": 51.4898541,
-    "longitude": 6.601334,
+    "id": "34156",
+    "name": "Jahrhunderthaus",
+    "latitude": 51.4793061,
+    "longitude": 7.202972,
+    "bikes_available": null
+  },
+  {
+    "id": "36490",
+    "name": "Scherpenberg - Homberger Straße",
+    "latitude": 51.4496719,
+    "longitude": 6.6722835,
     "bikes_available": null
   },
   {
@@ -5033,10 +5103,52 @@
     "bikes_available": null
   },
   {
+    "id": "36647",
+    "name": "Laerfeldstr. / Am Kreuzacker",
+    "latitude": 51.4705073,
+    "longitude": 7.276003,
+    "bikes_available": null
+  },
+  {
+    "id": "34013",
+    "name": "Nordstraße",
+    "latitude": 51.4474551,
+    "longitude": 6.911387,
+    "bikes_available": null
+  },
+  {
+    "id": "34273",
+    "name": "Witten Amazon DTM9",
+    "latitude": 51.4573161,
+    "longitude": 7.397929,
+    "bikes_available": null
+  },
+  {
+    "id": "34147",
+    "name": "Amazon Logistics DTM2",
+    "latitude": 51.5284571,
+    "longitude": 7.50231,
+    "bikes_available": null
+  },
+  {
     "id": "34148",
     "name": "Stadtarchiv Bochum",
     "latitude": 51.4775881,
     "longitude": 7.228714,
+    "bikes_available": null
+  },
+  {
+    "id": "34149",
+    "name": "Spar- und Bauverein Unionviertel",
+    "latitude": 51.5107391,
+    "longitude": 7.443023,
+    "bikes_available": null
+  },
+  {
+    "id": "34113",
+    "name": "Baroper Strasse",
+    "latitude": 51.4822511,
+    "longitude": 7.410021,
     "bikes_available": null
   },
   {
@@ -5051,6 +5163,20 @@
     "name": "Hochschule für Gesundheit",
     "latitude": 51.4470601,
     "longitude": 7.24485,
+    "bikes_available": null
+  },
+  {
+    "id": "33862",
+    "name": "Duisburg HBF Verknüpfungshalle Ost",
+    "latitude": 51.4318791,
+    "longitude": 6.778436,
+    "bikes_available": null
+  },
+  {
+    "id": "34010",
+    "name": "AKAFÖ Wodanstraße",
+    "latitude": 51.5658981,
+    "longitude": 7.080963,
     "bikes_available": null
   },
   {
@@ -5082,10 +5208,17 @@
     "bikes_available": null
   },
   {
-    "id": "34038",
-    "name": "Freigrafendamm / Wittener Str.",
-    "latitude": 51.4734681,
-    "longitude": 7.241326,
+    "id": "33932",
+    "name": "Jugendhotel",
+    "latitude": 51.5175691,
+    "longitude": 7.46477,
+    "bikes_available": null
+  },
+  {
+    "id": "34236",
+    "name": "Wohnheim Heinrich-Lersch-Str. 36-38",
+    "latitude": 51.4289171,
+    "longitude": 6.784323,
     "bikes_available": null
   },
   {
@@ -5096,24 +5229,24 @@
     "bikes_available": null
   },
   {
-    "id": "34180",
-    "name": "Gewerbegebiet Friedrich der Große",
-    "latitude": 51.5626651,
-    "longitude": 7.257189,
+    "id": "34049",
+    "name": "Rüttenscheider Platz",
+    "latitude": 51.4381431,
+    "longitude": 7.007405,
     "bikes_available": null
   },
   {
-    "id": "36665",
-    "name": "Radstation Marl-Sinsen",
-    "latitude": 51.6681706,
-    "longitude": 7.1733234,
+    "id": "33884",
+    "name": "Rüttenscheider Stern",
+    "latitude": 51.4381931,
+    "longitude": 7.005667,
     "bikes_available": null
   },
   {
-    "id": "34177",
-    "name": "Sültenfuss",
-    "latitude": 51.4508801,
-    "longitude": 6.859346,
+    "id": "33836",
+    "name": "Möllerbrücke",
+    "latitude": 51.5074571,
+    "longitude": 7.451364,
     "bikes_available": null
   },
   {
@@ -5124,10 +5257,10 @@
     "bikes_available": null
   },
   {
-    "id": "34028",
-    "name": "AKAFÖ Stiepeler Str.",
-    "latitude": 51.4520611,
-    "longitude": 7.243767,
+    "id": "33873",
+    "name": "Mobilstation Alte Straße",
+    "latitude": 51.4071841,
+    "longitude": 6.869749,
     "bikes_available": null
   },
   {
@@ -5145,6 +5278,27 @@
     "bikes_available": null
   },
   {
+    "id": "34182",
+    "name": "Raffelberg",
+    "latitude": 51.4323811,
+    "longitude": 6.824055,
+    "bikes_available": null
+  },
+  {
+    "id": "33966",
+    "name": "Gelsenkirchen HBF Bahnhofsvorplatz",
+    "latitude": 51.5062751,
+    "longitude": 7.100644,
+    "bikes_available": null
+  },
+  {
+    "id": "33795",
+    "name": "Kuckelke",
+    "latitude": 51.5168311,
+    "longitude": 7.469189,
+    "bikes_available": null
+  },
+  {
     "id": "34026",
     "name": "RUB MA",
     "latitude": 51.4455641,
@@ -5159,24 +5313,17 @@
     "bikes_available": null
   },
   {
-    "id": "33809",
-    "name": "Platz am Südwall",
-    "latitude": 51.5100411,
-    "longitude": 7.46756,
+    "id": "33906",
+    "name": "Gathestr.",
+    "latitude": 51.4564541,
+    "longitude": 6.887248,
     "bikes_available": null
   },
   {
-    "id": "34184",
-    "name": "Kahrstr. 46",
-    "latitude": 51.4417311,
-    "longitude": 7.000936,
-    "bikes_available": null
-  },
-  {
-    "id": "35131",
-    "name": "Alte Landstr.",
-    "latitude": 51.5287036,
-    "longitude": 7.0102101,
+    "id": "34107",
+    "name": "Schützenstrasse",
+    "latitude": 51.5241351,
+    "longitude": 7.452732,
     "bikes_available": null
   },
   {
@@ -5187,10 +5334,17 @@
     "bikes_available": null
   },
   {
-    "id": "34012",
-    "name": "Mühlenstr.",
-    "latitude": 51.4441781,
-    "longitude": 6.885273,
+    "id": "34178",
+    "name": "Koniner Str. & Holsterhauser Str.",
+    "latitude": 51.5285041,
+    "longitude": 7.1995,
+    "bikes_available": null
+  },
+  {
+    "id": "33846",
+    "name": "Essen Südbahnhof",
+    "latitude": 51.4394501,
+    "longitude": 7.023503,
     "bikes_available": null
   },
   {
@@ -5208,10 +5362,10 @@
     "bikes_available": null
   },
   {
-    "id": "34049",
-    "name": "Rüttenscheider Platz",
-    "latitude": 51.4381431,
-    "longitude": 7.007405,
+    "id": "34100",
+    "name": "Mülheim an der Ruhr HBF Nordeingang",
+    "latitude": 51.4316211,
+    "longitude": 6.886062,
     "bikes_available": null
   },
   {
@@ -5222,17 +5376,17 @@
     "bikes_available": null
   },
   {
+    "id": "33877",
+    "name": "Kammerstr. / Wohnheim",
+    "latitude": 51.4222801,
+    "longitude": 6.791842,
+    "bikes_available": null
+  },
+  {
     "id": "34063",
     "name": "AKAFÖ Q-West",
     "latitude": 51.4442281,
     "longitude": 7.259157,
-    "bikes_available": null
-  },
-  {
-    "id": "33783",
-    "name": "Bermuda 3Eck / Konrad-Adenauer-Platz",
-    "latitude": 51.4752991,
-    "longitude": 7.215754,
     "bikes_available": null
   },
   {
@@ -5261,13 +5415,6 @@
     "name": "Parkbad Ickern",
     "latitude": 51.5910573,
     "longitude": 7.3266691,
-    "bikes_available": null
-  },
-  {
-    "id": "33778",
-    "name": "Dahlhausen Bahnhof",
-    "latitude": 51.4265211,
-    "longitude": 7.142546,
     "bikes_available": null
   },
   {
@@ -5306,24 +5453,10 @@
     "bikes_available": null
   },
   {
-    "id": "36595",
-    "name": "Uhlandstr./Haydenstr.",
-    "latitude": 51.5261892,
-    "longitude": 7.4570255,
-    "bikes_available": null
-  },
-  {
     "id": "35134",
     "name": "Christianstraße",
     "latitude": 51.432835,
     "longitude": 6.9050864,
-    "bikes_available": null
-  },
-  {
-    "id": "33979",
-    "name": "Martinstr.",
-    "latitude": 51.4339991,
-    "longitude": 7.003559,
     "bikes_available": null
   },
   {
@@ -5422,13 +5555,6 @@
     "name": "Berliner Brücke",
     "latitude": 51.5268811,
     "longitude": 7.085569,
-    "bikes_available": null
-  },
-  {
-    "id": "34234",
-    "name": "Witteringstraße 64 Be-MoVe Mobilpunkt",
-    "latitude": 51.4412491,
-    "longitude": 7.011879,
     "bikes_available": null
   },
   {
@@ -5621,13 +5747,6 @@
     "bikes_available": null
   },
   {
-    "id": "33915",
-    "name": "Altenessen Bahnhof",
-    "latitude": 51.4844901,
-    "longitude": 7.008773,
-    "bikes_available": null
-  },
-  {
     "id": "34272",
     "name": "Altenessen Mitte StadtLastenRad",
     "latitude": 51.4949721,
@@ -5719,13 +5838,6 @@
     "bikes_available": null
   },
   {
-    "id": "33909",
-    "name": "Broicher Waldweg",
-    "latitude": 51.4206141,
-    "longitude": 6.846575,
-    "bikes_available": null
-  },
-  {
     "id": "34103",
     "name": "Auf dem Backenberg",
     "latitude": 51.4564641,
@@ -5758,13 +5870,6 @@
     "name": "Max-Planck-Straße",
     "latitude": 51.5916851,
     "longitude": 7.443992,
-    "bikes_available": null
-  },
-  {
-    "id": "33849",
-    "name": "Am Kaiserbrunnen",
-    "latitude": 51.5129931,
-    "longitude": 7.483154,
     "bikes_available": null
   },
   {
@@ -5915,31 +6020,10 @@
     "bikes_available": null
   },
   {
-    "id": "34029",
-    "name": "HBF Hamm",
-    "latitude": 51.6788561,
-    "longitude": 7.80916,
-    "bikes_available": null
-  },
-  {
     "id": "33813",
     "name": "Westfalenpark / Am Kaiserhain",
     "latitude": 51.4985631,
     "longitude": 7.477213,
-    "bikes_available": null
-  },
-  {
-    "id": "34963",
-    "name": "Manifesta: Markuskirche",
-    "latitude": 51.4464182,
-    "longitude": 6.9617912,
-    "bikes_available": null
-  },
-  {
-    "id": "33800",
-    "name": "Volksbank",
-    "latitude": 51.5131161,
-    "longitude": 7.467039,
     "bikes_available": null
   },
   {
@@ -5985,24 +6069,10 @@
     "bikes_available": null
   },
   {
-    "id": "34150",
-    "name": "Spar- und Bauverein Althoffblock",
-    "latitude": 51.5070061,
-    "longitude": 7.445501,
-    "bikes_available": null
-  },
-  {
     "id": "33974",
     "name": "Universität",
     "latitude": 51.4649731,
     "longitude": 7.001703,
-    "bikes_available": null
-  },
-  {
-    "id": "33784",
-    "name": "AKAFÖ Kalwes",
-    "latitude": 51.4437141,
-    "longitude": 7.280826,
     "bikes_available": null
   },
   {
@@ -6066,13 +6136,6 @@
     "name": "RWE AG",
     "latitude": 51.4657361,
     "longitude": 7.0136,
-    "bikes_available": null
-  },
-  {
-    "id": "33887",
-    "name": "Essen Westbahnhof",
-    "latitude": 51.4537231,
-    "longitude": 6.980782,
     "bikes_available": null
   },
   {
@@ -6356,20 +6419,6 @@
     "bikes_available": null
   },
   {
-    "id": "33869",
-    "name": "Stadtmitte / Leineweberstr.",
-    "latitude": 51.4268721,
-    "longitude": 6.880124,
-    "bikes_available": null
-  },
-  {
-    "id": "33830",
-    "name": "Hüttenwerk / Eingang Landschaftspark",
-    "latitude": 51.4804941,
-    "longitude": 6.783693,
-    "bikes_available": null
-  },
-  {
     "id": "36693",
     "name": "Wissenschaftspark",
     "latitude": 51.5010341,
@@ -6468,13 +6517,6 @@
     "bikes_available": null
   },
   {
-    "id": "33983",
-    "name": "Langendreer West Bahnhof / Lünsender Str.",
-    "latitude": 51.4775121,
-    "longitude": 7.306241,
-    "bikes_available": null
-  },
-  {
     "id": "33823",
     "name": "Lehmbruckmuseum",
     "latitude": 51.4309491,
@@ -6566,13 +6608,6 @@
     "bikes_available": null
   },
   {
-    "id": "33820",
-    "name": "Duisburg HBF Haupteingang",
-    "latitude": 51.4306311,
-    "longitude": 6.773474,
-    "bikes_available": null
-  },
-  {
     "id": "34106",
     "name": "Immermannstr./Klinikzentrum",
     "latitude": 51.5326851,
@@ -6591,13 +6626,6 @@
     "name": "Technologiequartier",
     "latitude": 51.4507841,
     "longitude": 7.276275,
-    "bikes_available": null
-  },
-  {
-    "id": "36487",
-    "name": "Utfort - Rathausallee",
-    "latitude": 51.4752453,
-    "longitude": 6.6299355,
     "bikes_available": null
   },
   {
@@ -6633,13 +6661,6 @@
     "name": "Hustadt / Schattbachstr. / U35",
     "latitude": 51.4521081,
     "longitude": 7.273121,
-    "bikes_available": null
-  },
-  {
-    "id": "33833",
-    "name": "Viehofer Str. 41",
-    "latitude": 51.4613611,
-    "longitude": 7.013503,
     "bikes_available": null
   },
   {
